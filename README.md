@@ -3,26 +3,27 @@
 ****
 ## 目录
 * [lib库](#lib库)
+  * [状态栏相关](#状态栏相关)
+  
 * [工具类](#工具类)
 ****
 
 ### lib库
 -----------
-| 名称 | 简介  | 
-| :------------: |:---------------:|
-|[沉浸式状态栏][0]|![](https://github.com/H07000223/FlycoSystemBar/blob/master/art/5.0.gif)|  
+#### 状态栏相关
+-----------
+|#| 名称 | 简介  | 
+|---------|------------|:---------------:|
+|1|[沉浸式状态栏][0]|![](https://github.com/H07000223/FlycoSystemBar/blob/master/art/5.0.gif)|  
 
 ### 工具类
 -----------
-| 类 | 简介  | 
-| :------------: |:---------------:|
-|[AnimationUtils][1]|Animation 工具类|
-|[AppUtils][2]|APP 相关信息工具类|
-|[AssetDatabaseOpenHelper][3]|读取 Asset 目录中数据库工具类|
-|[BitmapUtil][4]|Bitmap 工具类主要包括获取 Bitmap 和对 Bitmap 的操作|
-|[CipherUtils][5]|加密与解密的工具类|
-|[Colors][6]|常用颜色色值工具类|
-|[CommonUtil][7]|一些通用的方法|
+|#| | 类 | 简介  | 
+|----|------------|---------------|
+|1|[Android工具类库][1]|star超`1k`|
+|2|[Android开发人员不得不收集的代码][2]|常用工具类,star超`9k`|
+|3|[logger][3]|优秀的log打印库|
+
 
 
 
@@ -35,12 +36,9 @@
 
 
 [0]: https://github.com/H07000223/FlycoSystemBar
-[1]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/AnimationUtils.java
-[2]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/AppUtils.java
-[3]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/AssetDatabaseOpenHelper.java
-[4]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/BitmapUtil.java
-[5]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/CipherUtils.java
-[6]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/Colors.java
-[7]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/CommonUtil.java
+[1]: https://github.com/jingle1267/android-utils
+[2]: https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
+[3]: https://github.com/orhanobut/logger
+
 
 
