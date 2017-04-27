@@ -1,6 +1,7 @@
 # AndroidUtils
 ## 收藏工作中常用的android工具类...持续更新.....<br>
-### 简介
+简介
+-----------
 | 类 | 简介  | 
 | :------------ |:---------------|
 |[AnimationUtils][1]|Animation 工具类|
@@ -23,6 +24,6 @@
 
 
 
-[1]: https://github.com/jingle1267/android-utils/tree/master/app/src/main/java/com/ihongqiqu/util/AnimationUtils.java
-[2]: https://github.com/jingle1267/android-utils/tree/master/app/src/main/java/com/ihongqiqu/util/AppUtils.java
+[1]: https://github.com/Blizzard-liu/AndroidUtils/utils/src/main/java/com/example/utils/AnimationUtils.java
+
 
