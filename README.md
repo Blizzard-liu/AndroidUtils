@@ -23,7 +23,12 @@
 
 
 
-
-[1]: https://github.com/Blizzard-liu/AndroidUtils/utils/src/main/java/com/example/utils/AnimationUtils.java
+[1]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/AnimationUtils.java
+[2]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/AppUtils.java
+[3]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/AssetDatabaseOpenHelper.java
+[4]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/BitmapUtil.java
+[5]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/CipherUtils.java
+[6]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/Colors.java
+[7]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/CommonUtil.java
 
 
