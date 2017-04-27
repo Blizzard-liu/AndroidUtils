@@ -1,5 +1,11 @@
 # AndroidUtils
 ## 收藏工作中常用的android工具类...持续更新.....<br>
+lib库
+-----------
+| 名称 | 简介  | 
+| :------------ |:---------------|
+|[沉浸式状态栏][0]|沉浸式状态栏|  
+
 简介
 -----------
 | 类 | 简介  | 
@@ -22,7 +28,7 @@
 
 
 
-
+[0]: https://github.com/H07000223/FlycoSystemBar
 [1]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/AnimationUtils.java
 [2]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/AppUtils.java
 [3]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/AssetDatabaseOpenHelper.java
