@@ -72,7 +72,8 @@
 
 |#| 名称 | 简介  | 
 |---------|------------|:---------------:|
-|1|[banner][0]|Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等!| 
+|1|[banner][6]|Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等!| 
+|2|[banner][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
 
 #### 状态栏相关
 
@@ -101,7 +102,7 @@
 [13]: http://www.jianshu.com/p/4320597ebd7e
 [14]: https://github.com/jeasonlzy/ImagePicker
 [15]: https://github.com/LuckSiege/PictureSelector
-[16]: https://github.com/square/retrofit
+[16]: https://github.com/bingoogolapple/BGARefreshLayout-Android
 [17]: https://github.com/square/retrofit
 
 
