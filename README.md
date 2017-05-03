@@ -15,6 +15,7 @@
    * [二维码](#二维码)
    * [屏幕适配](#屏幕适配)
    * [下拉刷新](#下拉刷新)
+   * [视频播放](#视频播放)
    * [自定义控件](#自定义控件)
   
 ****
@@ -73,6 +74,8 @@
 |1|[Android工具类库][1]|star超`1k`|
 |2|[Android开发人员不得不收集的代码][2]|常用工具类,star超`9k`|
 |3|[logger][3]|优秀的log打印库|
+|4|[Luban][26]|Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。|
+|4|[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
 
 #### 轮播图
 
@@ -107,14 +110,21 @@
 |---------|------------|:---------------:|
 |1|[BGARefreshLayout-Android][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
 
+#### 视频播放
+
+|#| 名称 | 简介  | 
+|---------|------------|:---------------:|
+|1|[PreviewSeekBar][27]|![](https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/playmovies.gif)| 
+
+
 #### 自定义控件
 
 |#| 名称 | 简介  | 
 |---------|------------|:---------------:|
 |1|[BGABadgeView-Android][21]|Android 徽章控件 ![](https://cloud.githubusercontent.com/assets/8949716/17483429/8f5ab3aa-5db8-11e6-808c-6033f5d5c4ec.gif)|  
-|2|[LQREmojiLibrary][23]|一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择。![](https://github.com/GitLqr/LQREmojiLibrary/raw/master/screenshots/1.gif)| 
+|2|[LQREmojiLibrary][23]|一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择。<br>![](https://github.com/GitLqr/LQREmojiLibrary/raw/master/screenshots/1.gif)| 
 |3|[LQRAudioRecord][24]|集成录音与播音功能，使用简单方便![](https://github.com/GitLqr/LQRAudioRecord/raw/master/screenshots/1.gif)| 
-|4|[LQRNineGridImageView][25]|仿微信群头像九宫格控件![](https://github.com/GitLqr/LQRNineGridImageView/raw/master/screenshots/1.png)| 
+|4|[LQRNineGridImageView][25]|仿微信群头像九宫格控件 <br>![](https://github.com/GitLqr/LQRNineGridImageView/raw/master/screenshots/1.png)| 
 
 
 
@@ -145,8 +155,11 @@
 [23]: https://github.com/GitLqr/LQREmojiLibrary
 [24]: https://github.com/GitLqr/LQRAudioRecord
 [25]: https://github.com/GitLqr/LQRNineGridImageView
-[26]: https://github.com/GitLqr/LQRAudioRecord
-[27]: https://github.com/GitLqr/LQRAudioRecord
-
+[26]: https://github.com/Curzibn/Luban
+[27]: https://github.com/rubensousa/PreviewSeekBar
+[28]: https://github.com/shaohui10086/ShareUtil
+[29]: https://github.com/rubensousa/PreviewSeekBar
+[30]: https://github.com/rubensousa/PreviewSeekBar
+[31]: https://github.com/rubensousa/PreviewSeekBar
 
 
