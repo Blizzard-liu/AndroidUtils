@@ -12,6 +12,7 @@
    * [工具类大全](#工具类)
    * [轮播图](#轮播图)
    * [状态栏相关](#状态栏相关)
+   * [二维码](#二维码)
   
 ****
 
@@ -73,7 +74,7 @@
 |#| 名称 | 简介  | 
 |---------|------------|:---------------:|
 |1|[banner][6]|Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等!| 
-|2|[banner][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
+|2|[BGARefreshLayout-Android][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
 
 #### 状态栏相关
 
@@ -82,8 +83,11 @@
 |1|[沉浸式状态栏][0]|![](https://github.com/H07000223/FlycoSystemBar/blob/master/art/5.0.gif)|  
 
 
+#### 二维码
 
-
+|#| 名称 | 简介  | 
+|---------|------------|:---------------:|
+|1|[BGAQRCode-Android][17]|QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式|  
 
 
 [0]: https://github.com/H07000223/FlycoSystemBar
@@ -103,7 +107,7 @@
 [14]: https://github.com/jeasonlzy/ImagePicker
 [15]: https://github.com/LuckSiege/PictureSelector
 [16]: https://github.com/bingoogolapple/BGARefreshLayout-Android
-[17]: https://github.com/square/retrofit
+[17]: https://github.com/bingoogolapple/BGAQRCode-Android
 
 
 
