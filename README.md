@@ -14,7 +14,9 @@
    * [状态栏相关](#状态栏相关)
    * [二维码](#二维码)
    * [屏幕适配](#屏幕适配)
-  
+   * [下拉刷新](#下拉刷新)
+   * [自定义控件](#自定义控件)
+  
 ****
 
 ### lib库
@@ -77,7 +79,8 @@
 |#| 名称 | 简介  | 
 |---------|------------|:---------------:|
 |1|[banner][6]|Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等!| 
-|2|[BGARefreshLayout-Android][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
+|2|[BGABanner-Android][22]|引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果| 
+
 
 #### 状态栏相关
 
@@ -97,6 +100,20 @@
 |#| 名称 | 简介  | 
 |---------|------------|:---------------:|
 |1|[AndroidAutoLayout][19]|Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。|  
+
+#### 下拉刷新
+
+|#| 名称 | 简介  | 
+|---------|------------|:---------------:|
+|1|[BGARefreshLayout-Android][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
+
+#### 自定义控件
+
+|#| 名称 | 简介  | 
+|---------|------------|:---------------:|
+|1|[BGABadgeView-Android][21]|Android 徽章控件 ![](https://cloud.githubusercontent.com/assets/8949716/17483429/8f5ab3aa-5db8-11e6-808c-6033f5d5c4ec.gif)|  
+
+
 
 
 [0]: https://github.com/H07000223/FlycoSystemBar
@@ -120,6 +137,8 @@
 [18]: https://github.com/LitePalFramework/LitePal
 [19]: https://github.com/hongyangAndroid/AndroidAutoLayout
 [20]: https://github.com/hongyangAndroid/okhttputils
+[21]: https://github.com/bingoogolapple/BGABadgeView-Android
+[22]: https://github.com/bingoogolapple/BGABanner-Android
 
 
 
