@@ -112,12 +112,9 @@
 |#| 名称 | 简介  | 
 |---------|------------|:---------------:|
 |1|[BGABadgeView-Android][21]|Android 徽章控件 ![](https://cloud.githubusercontent.com/assets/8949716/17483429/8f5ab3aa-5db8-11e6-808c-6033f5d5c4ec.gif)|  
-|2|[LQREmojiLibrary][23]|一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择。
-![](https://github.com/GitLqr/LQREmojiLibrary/raw/master/screenshots/1.gif)| 
-|3|[LQRAudioRecord][24]|集成录音与播音功能，使用简单方便
-![](https://github.com/GitLqr/LQRAudioRecord/raw/master/screenshots/1.gif)| 
-|4|[LQRNineGridImageView][25]|仿微信群头像九宫格控件
-![](https://github.com/GitLqr/LQRNineGridImageView/raw/master/screenshots/1.png)| 
+|2|[LQREmojiLibrary][23]|一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择。![](https://github.com/GitLqr/LQREmojiLibrary/raw/master/screenshots/1.gif)| 
+|3|[LQRAudioRecord][24]|集成录音与播音功能，使用简单方便![](https://github.com/GitLqr/LQRAudioRecord/raw/master/screenshots/1.gif)| 
+|4|[LQRNineGridImageView][25]|仿微信群头像九宫格控件![](https://github.com/GitLqr/LQRNineGridImageView/raw/master/screenshots/1.png)| 
 
 
 
