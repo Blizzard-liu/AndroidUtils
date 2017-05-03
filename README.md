@@ -13,6 +13,7 @@
    * [轮播图](#轮播图)
    * [状态栏相关](#状态栏相关)
    * [二维码](#二维码)
+   * [屏幕适配](#屏幕适配)
   
 ****
 
@@ -52,6 +53,7 @@
 |#| 名称 | 简介  | 
 |----|------------|:---------------:|
 |1|[greenDAO][7]|star超`7k`,存取速度快,支持数据库加密,轻量级,支持缓存,代码自动生成|
+|2|[LitePal][18]|郭神的LitePal|
 
 
 #### 权限管理
@@ -89,6 +91,12 @@
 |---------|------------|:---------------:|
 |1|[BGAQRCode-Android][17]|QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式|  
 
+#### 屏幕适配
+
+|#| 名称 | 简介  | 
+|---------|------------|:---------------:|
+|1|[AndroidAutoLayout][19]|Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。|  
+
 
 [0]: https://github.com/H07000223/FlycoSystemBar
 [1]: https://github.com/jingle1267/android-utils
@@ -108,6 +116,8 @@
 [15]: https://github.com/LuckSiege/PictureSelector
 [16]: https://github.com/bingoogolapple/BGARefreshLayout-Android
 [17]: https://github.com/bingoogolapple/BGAQRCode-Android
+[18]: https://github.com/LitePalFramework/LitePal
+[19]: https://github.com/hongyangAndroid/AndroidAutoLayout
 
 
 
