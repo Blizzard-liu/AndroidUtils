@@ -78,6 +78,8 @@
 |5|[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
 |6|[baseAdapter][32]|Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。|
 |7|[butterknife][33]|JakeWharton大神的强大的注解库|
+|8|[BaseRecyclerViewAdapterHelper][36]| * 优化Adapter代码（减少百分之70%代码 <br> * 添加点击item点击、长按事件、以及item子控件的点击事件 <br> * 添加加载动画（一行代码轻松切换5种默认动画） <br> * 添加头部、尾部、下拉刷新、上拉加载（感觉又回到ListView时代）<br> * 设置自定义的加载更多布局添加分组（随心定义分组头部）<br> * 自定义不同的item类型（简单配置、无需重写额外方法） <br> * 设置空布局（比Listview的setEmptyView还要好用！） <br> * 添加拖拽item |
+|9|[Fragmentation][37]|为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。<br>![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/wechat.gif)|
 
 #### 轮播图
 
@@ -118,6 +120,7 @@
 |#| 名称 | 简介  | 
 |---------|------------|:---------------:|
 |1|[PreviewSeekBar][27]|![](https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/playmovies.gif)| 
+|2|[JieCaoVideoPlayer][35]|![](https://github.com/lipangit/JieCaoVideoPlayer/releases/download/v5.3/j9.jpg)| 
 
 
 #### 自定义控件
@@ -129,7 +132,7 @@
 |3|[LQRAudioRecord][24]|集成录音与播音功能，使用简单方便![](https://github.com/GitLqr/LQRAudioRecord/raw/master/screenshots/1.gif)| 
 |4|[LQRNineGridImageView][25]|仿微信群头像九宫格控件 <br>![](https://github.com/GitLqr/LQRNineGridImageView/raw/master/screenshots/1.png)| 
 |5|[MagicIndicator][30]|强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等 <br>![](https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif)| 
-|6|[SmartTabLayout][31]|![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif)| 
+|6|[SmartTabLayout][31]|![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif)<br>![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo4.gif)| 
 |7|[PagerSlidingTabStrip][34]|![](https://raw.githubusercontent.com/jpardogo/PagerSlidingTabStrip/master/art/material_tabs.gif)| 
 
 
@@ -176,9 +179,9 @@
 [32]: https://github.com/hongyangAndroid/baseAdapter
 [33]: https://github.com/JakeWharton/butterknife
 [34]: https://github.com/jpardogo/PagerSlidingTabStrip
-[35]: https://github.com/ogaclejapan/SmartTabLayout
-[36]: https://github.com/ogaclejapan/SmartTabLayout
-[37]: https://github.com/ogaclejapan/SmartTabLayout
+[35]: https://github.com/lipangit/JieCaoVideoPlayer
+[36]: https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+[37]: https://github.com/YoKeyword/Fragmentation
 [38]: https://github.com/ogaclejapan/SmartTabLayout
 [39]: https://github.com/ogaclejapan/SmartTabLayout
 [40]: https://github.com/ogaclejapan/SmartTabLayout
