@@ -80,6 +80,7 @@
 |7|[butterknife][33]|JakeWharton大神的强大的注解库|
 |8|[BaseRecyclerViewAdapterHelper][36]| * 优化Adapter代码（减少百分之70%代码 <br> * 添加点击item点击、长按事件、以及item子控件的点击事件 <br> * 添加加载动画（一行代码轻松切换5种默认动画） <br> * 添加头部、尾部、下拉刷新、上拉加载（感觉又回到ListView时代）<br> * 设置自定义的加载更多布局添加分组（随心定义分组头部）<br> * 自定义不同的item类型（简单配置、无需重写额外方法） <br> * 设置空布局（比Listview的setEmptyView还要好用！） <br> * 添加拖拽item |
 |9|[Fragmentation][37]|为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。<br>![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/wechat.gif)|
+|10|[RxJava][39]|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|
 
 #### 轮播图
 
@@ -134,7 +135,7 @@
 |5|[MagicIndicator][30]|强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等 <br>![](https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif)| 
 |6|[SmartTabLayout][31]|![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif)<br>![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo4.gif)| 
 |7|[PagerSlidingTabStrip][34]|![](https://raw.githubusercontent.com/jpardogo/PagerSlidingTabStrip/master/art/material_tabs.gif)| 
-
+|8|[XhsEmoticonsKeyboard][38]|API > 9,表情键盘支持无闪烁自跟随系统软键盘高度,及支持自定义高度,表情支持自定义格式,支持任意来源组件支持完全自定义,样式支持任意更改支持全屏默认微信键盘样式赠QQ键盘高仿,不谢<br>![](https://github.com/w446108264/XhsEmoticonsKeyboard/raw/master/output/show.gif)| 
 
 
 
@@ -182,8 +183,8 @@
 [35]: https://github.com/lipangit/JieCaoVideoPlayer
 [36]: https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 [37]: https://github.com/YoKeyword/Fragmentation
-[38]: https://github.com/ogaclejapan/SmartTabLayout
-[39]: https://github.com/ogaclejapan/SmartTabLayout
+[38]: https://github.com/w446108264/XhsEmoticonsKeyboard
+[39]: https://github.com/ReactiveX/RxJava
 [40]: https://github.com/ogaclejapan/SmartTabLayout
 [41]: https://github.com/ogaclejapan/SmartTabLayout
 
