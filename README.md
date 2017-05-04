@@ -80,7 +80,9 @@
 |[butterknife][33]|JakeWharton大神的强大的注解库|
 |[BaseRecyclerViewAdapterHelper][36]| * 优化Adapter代码（减少百分之70%代码 <br> * 添加点击item点击、长按事件、以及item子控件的点击事件 <br> * 添加加载动画（一行代码轻松切换5种默认动画） <br> * 添加头部、尾部、下拉刷新、上拉加载（感觉又回到ListView时代）<br> * 设置自定义的加载更多布局添加分组（随心定义分组头部）<br> * 自定义不同的item类型（简单配置、无需重写额外方法） <br> * 设置空布局（比Listview的setEmptyView还要好用！） <br> * 添加拖拽item |
 |[Fragmentation][37]|为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。<br>![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/wechat.gif)|
+|[Material-Animations][50]|![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)|
 |[RxJava][39]|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|
+|[leakcanary][49]|检测内存泄露|
 
 #### 轮播图
 
@@ -145,6 +147,7 @@
 |[JellyToggleButton][48]|![](https://github.com/Nightonke/JellyToggleButton/raw/master/img/JellyToggleButton4.gif?raw=true)| 
 |[GoodView][47]|Android点赞+1效果，支持文本和图像<br> ![](https://github.com/venshine/GoodView/raw/master/screenshot/screenshot.gif)| 
 |[Android-ObservableScrollView][46]|![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif) ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo10.gif) ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo13.gif)| 
+|[XCL-Charts][51]|Android图表库(XCL-Carts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图(Cir…)| 
 
 
 
@@ -200,9 +203,9 @@
 [46]: https://github.com/ksoichiro/Android-ObservableScrollView
 [47]: https://github.com/venshine/GoodView
 [48]: https://github.com/Nightonke/JellyToggleButton
-[49]: https://github.com/jeasonlzy/NineGridView
-[50]: https://github.com/jeasonlzy/NineGridView
-[51]: https://github.com/jeasonlzy/NineGridView
+[49]: https://github.com/square/leakcanary
+[50]: https://github.com/lgvalle/Material-Animations
+[51]: https://github.com/xcltapestry/XCL-Charts
 [52]: https://github.com/jeasonlzy/NineGridView
 [53]: https://github.com/jeasonlzy/NineGridView
 [54]: https://github.com/jeasonlzy/NineGridView
