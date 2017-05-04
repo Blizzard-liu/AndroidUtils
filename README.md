@@ -109,6 +109,7 @@
 |#| 名称 | 简介  | 
 |---------|------------|:---------------:|
 |1|[BGARefreshLayout-Android][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
+|2|[android-Ultra-Pull-To-Refresh][29]|这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。支持 API LEVEL >= 8。<br>![](https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966)| 
 
 #### 视频播放
 
@@ -158,7 +159,7 @@
 [26]: https://github.com/Curzibn/Luban
 [27]: https://github.com/rubensousa/PreviewSeekBar
 [28]: https://github.com/shaohui10086/ShareUtil
-[29]: https://github.com/rubensousa/PreviewSeekBar
+[29]: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/README-cn.md
 [30]: https://github.com/rubensousa/PreviewSeekBar
 [31]: https://github.com/rubensousa/PreviewSeekBar
 
