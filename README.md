@@ -122,6 +122,7 @@
 |---------|------------|:---------------:|
 |1|[PreviewSeekBar][27]|![](https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/playmovies.gif)| 
 |2|[JieCaoVideoPlayer][35]|![](https://github.com/lipangit/JieCaoVideoPlayer/releases/download/v5.3/j9.jpg)| 
+|3|[SuperPlayer][40]|SuperPlayer 是一个基于IjkPlayer的控制器，支持手势操作，滑动快进，快退，支持，上滑音量亮度的变化，支持指点位置播放，播放源的切换| 
 
 
 #### 自定义控件
@@ -136,7 +137,7 @@
 |6|[SmartTabLayout][31]|![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif)<br>![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo4.gif)| 
 |7|[PagerSlidingTabStrip][34]|![](https://raw.githubusercontent.com/jpardogo/PagerSlidingTabStrip/master/art/material_tabs.gif)| 
 |8|[XhsEmoticonsKeyboard][38]|API > 9,表情键盘支持无闪烁自跟随系统软键盘高度,及支持自定义高度,表情支持自定义格式,支持任意来源组件支持完全自定义,样式支持任意更改支持全屏默认微信键盘样式赠QQ键盘高仿,不谢<br>![](https://github.com/w446108264/XhsEmoticonsKeyboard/raw/master/output/show.gif)| 
-
+|9|[NineGridView][41]|类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，使用接口加载图片,支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。<br>![](https://github.com/jeasonlzy/Screenshots/raw/master/NineGridView/demo10.gif)| 
 
 
 
@@ -185,7 +186,26 @@
 [37]: https://github.com/YoKeyword/Fragmentation
 [38]: https://github.com/w446108264/XhsEmoticonsKeyboard
 [39]: https://github.com/ReactiveX/RxJava
-[40]: https://github.com/ogaclejapan/SmartTabLayout
-[41]: https://github.com/ogaclejapan/SmartTabLayout
+[40]: https://github.com/Haxine/SuperPlayer
+[41]: https://github.com/jeasonlzy/NineGridView
+[42]: https://github.com/jeasonlzy/NineGridView
+[43]: https://github.com/jeasonlzy/NineGridView
+[44]: https://github.com/jeasonlzy/NineGridView
+[45]: https://github.com/jeasonlzy/NineGridView
+[46]: https://github.com/jeasonlzy/NineGridView
+[47]: https://github.com/jeasonlzy/NineGridView
+[48]: https://github.com/jeasonlzy/NineGridView
+[49]: https://github.com/jeasonlzy/NineGridView
+[50]: https://github.com/jeasonlzy/NineGridView
+[51]: https://github.com/jeasonlzy/NineGridView
+[52]: https://github.com/jeasonlzy/NineGridView
+[53]: https://github.com/jeasonlzy/NineGridView
+[54]: https://github.com/jeasonlzy/NineGridView
+[55]: https://github.com/jeasonlzy/NineGridView
+[56]: https://github.com/jeasonlzy/NineGridView
+[57]: https://github.com/jeasonlzy/NineGridView
+[58]: https://github.com/jeasonlzy/NineGridView
+[59]: https://github.com/jeasonlzy/NineGridView
+[60]: https://github.com/jeasonlzy/NineGridView
 
 
