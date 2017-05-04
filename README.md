@@ -138,10 +138,12 @@
 |[SmartTabLayout][31]|![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif)<br>![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo4.gif)| 
 |[PagerSlidingTabStrip][34]|![](https://raw.githubusercontent.com/jpardogo/PagerSlidingTabStrip/master/art/material_tabs.gif)| 
 |[NavigationTabStrip][43]|![](https://camo.githubusercontent.com/7ead597346be3b6ae76d307ae7891d12b766f2ab/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363523346554e5452765331424a654545)| 
+|[NavigationTabBar][45]|![](https://camo.githubusercontent.com/0875dc014d4ff27c9b009791bdecf2d53db98f4c/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363546d6879516c395259564979554645)| 
 |[XhsEmoticonsKeyboard][38]|API > 9,表情键盘支持无闪烁自跟随系统软键盘高度,及支持自定义高度,表情支持自定义格式,支持任意来源组件支持完全自定义,样式支持任意更改支持全屏默认微信键盘样式赠QQ键盘高仿,不谢<br>![](https://github.com/w446108264/XhsEmoticonsKeyboard/raw/master/output/show.gif)| 
 |[NineGridView][41]|类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，使用接口加载图片,支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。<br>![](https://github.com/jeasonlzy/Screenshots/raw/master/NineGridView/demo10.gif)| 
 |[ToggleButton][44]|![](https://github.com/zcweng/SwitchButton/raw/master/21879.gif)| 
-
+|[GoodView][47]|Android点赞+1效果，支持文本和图像 ![](https://github.com/venshine/GoodView/raw/master/screenshot/screenshot.gif)| 
+|[Android-ObservableScrollView][46]|![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif)| 
 
 
 
@@ -193,9 +195,9 @@
 [42]: https://github.com/jjdxmashl/jjdxm_ijkplayer
 [43]: https://github.com/Devlight/NavigationTabStrip
 [44]: https://github.com/zcweng/SwitchButton
-[45]: https://github.com/jeasonlzy/NineGridView
-[46]: https://github.com/jeasonlzy/NineGridView
-[47]: https://github.com/jeasonlzy/NineGridView
+[45]: https://github.com/Devlight/NavigationTabBar
+[46]: https://github.com/ksoichiro/Android-ObservableScrollView
+[47]: https://github.com/venshine/GoodView
 [48]: https://github.com/jeasonlzy/NineGridView
 [49]: https://github.com/jeasonlzy/NineGridView
 [50]: https://github.com/jeasonlzy/NineGridView
