@@ -142,8 +142,9 @@
 |[XhsEmoticonsKeyboard][38]|API > 9,表情键盘支持无闪烁自跟随系统软键盘高度,及支持自定义高度,表情支持自定义格式,支持任意来源组件支持完全自定义,样式支持任意更改支持全屏默认微信键盘样式赠QQ键盘高仿,不谢<br>![](https://github.com/w446108264/XhsEmoticonsKeyboard/raw/master/output/show.gif)| 
 |[NineGridView][41]|类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，使用接口加载图片,支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。<br>![](https://github.com/jeasonlzy/Screenshots/raw/master/NineGridView/demo10.gif)| 
 |[ToggleButton][44]|![](https://github.com/zcweng/SwitchButton/raw/master/21879.gif)| 
-|[GoodView][47]|Android点赞+1效果，支持文本和图像 ![](https://github.com/venshine/GoodView/raw/master/screenshot/screenshot.gif)| 
-|[Android-ObservableScrollView][46]|![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif)| 
+|[JellyToggleButton][48]|![](https://github.com/Nightonke/JellyToggleButton/raw/master/img/JellyToggleButton4.gif?raw=true)| 
+|[GoodView][47]|Android点赞+1效果，支持文本和图像<br> ![](https://github.com/venshine/GoodView/raw/master/screenshot/screenshot.gif)| 
+|[Android-ObservableScrollView][46]|![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif) ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo10.gif) ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo13.gif)| 
 
 
 
@@ -198,7 +199,7 @@
 [45]: https://github.com/Devlight/NavigationTabBar
 [46]: https://github.com/ksoichiro/Android-ObservableScrollView
 [47]: https://github.com/venshine/GoodView
-[48]: https://github.com/jeasonlzy/NineGridView
+[48]: https://github.com/Nightonke/JellyToggleButton
 [49]: https://github.com/jeasonlzy/NineGridView
 [50]: https://github.com/jeasonlzy/NineGridView
 [51]: https://github.com/jeasonlzy/NineGridView
