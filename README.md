@@ -75,7 +75,9 @@
 |2|[Android开发人员不得不收集的代码][2]|常用工具类,star超`9k`|
 |3|[logger][3]|优秀的log打印库|
 |4|[Luban][26]|Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。|
-|4|[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
+|5|[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
+|6|[baseAdapter][32]|Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。|
+|7|[butterknife][33]|JakeWharton大神的强大的注解库|
 
 #### 轮播图
 
@@ -126,6 +128,15 @@
 |2|[LQREmojiLibrary][23]|一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择。<br>![](https://github.com/GitLqr/LQREmojiLibrary/raw/master/screenshots/1.gif)| 
 |3|[LQRAudioRecord][24]|集成录音与播音功能，使用简单方便![](https://github.com/GitLqr/LQRAudioRecord/raw/master/screenshots/1.gif)| 
 |4|[LQRNineGridImageView][25]|仿微信群头像九宫格控件 <br>![](https://github.com/GitLqr/LQRNineGridImageView/raw/master/screenshots/1.png)| 
+|5|[MagicIndicator][30]|强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等 <br>![](https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif)| 
+|6|[SmartTabLayout][31]|![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif)| 
+|7|[PagerSlidingTabStrip][34]|![](https://raw.githubusercontent.com/jpardogo/PagerSlidingTabStrip/master/art/material_tabs.gif)| 
+
+
+
+
+
+
 
 
 
@@ -160,7 +171,17 @@
 [27]: https://github.com/rubensousa/PreviewSeekBar
 [28]: https://github.com/shaohui10086/ShareUtil
 [29]: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/README-cn.md
-[30]: https://github.com/rubensousa/PreviewSeekBar
-[31]: https://github.com/rubensousa/PreviewSeekBar
+[30]: https://github.com/hackware1993/MagicIndicator
+[31]: https://github.com/ogaclejapan/SmartTabLayout
+[32]: https://github.com/hongyangAndroid/baseAdapter
+[33]: https://github.com/JakeWharton/butterknife
+[34]: https://github.com/jpardogo/PagerSlidingTabStrip
+[35]: https://github.com/ogaclejapan/SmartTabLayout
+[36]: https://github.com/ogaclejapan/SmartTabLayout
+[37]: https://github.com/ogaclejapan/SmartTabLayout
+[38]: https://github.com/ogaclejapan/SmartTabLayout
+[39]: https://github.com/ogaclejapan/SmartTabLayout
+[40]: https://github.com/ogaclejapan/SmartTabLayout
+[41]: https://github.com/ogaclejapan/SmartTabLayout
 
 
