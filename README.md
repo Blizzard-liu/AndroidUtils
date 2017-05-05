@@ -45,6 +45,7 @@
 |------------|---------------|
 |[ImagePicker][14]|完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数|
 |[PictureSelector][15]|android多图选择器 图片/视频 单选or多选，以及视频录制|
+|[Matisse][52]|知乎开源图片选择器,支持主题切换|
 
 #### 缓存框架
 
@@ -207,7 +208,7 @@
 [49]: https://github.com/square/leakcanary
 [50]: https://github.com/lgvalle/Material-Animations
 [51]: https://github.com/xcltapestry/XCL-Charts
-[52]: https://github.com/jeasonlzy/NineGridView
+[52]: https://github.com/zhihu/Matisse
 [53]: https://github.com/jeasonlzy/NineGridView
 [54]: https://github.com/jeasonlzy/NineGridView
 [55]: https://github.com/jeasonlzy/NineGridView
