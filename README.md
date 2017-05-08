@@ -35,9 +35,9 @@
 
 | 名称 | 简介  | 
 |------------|---------------|
-|[glide][9]|star超`14k`|
-|[Picasso][10]|star超`13k`|
-|[Fresco][11]|star超`12k`|
+|[glide][9]|Google员工私人项目，Google很多项目在用。picasso能做到的它都能做到，并且还支持gif.关于Glide和Picasso这篇译文有一个比较详细的对比介绍 [Glide VS Picasso][53]|
+|[Picasso][10]|这个是square 开源的一个强大的图片下载和缓存库。很受欢迎，许多项目都有在使用这个库。使用方式也很简单。|
+|[Fresco][11]|这个是FaceBook的开源项目，链接中有中文的详细文档。这个库除了支持的图片格式很广泛外，最大的特性就是在内存优化这块，使用这个库能有效防止OOM情况的出现。|
 
 #### 图片选择器
 
@@ -79,7 +79,7 @@
 |[Luban][26]|Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。|
 |[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
 |[baseAdapter][32]|Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。|
-|[butterknife][33]|JakeWharton大神的强大的注解库|
+|[butterknife][33]|这个开源库可以让我们从大量的findViewById()和setOnclicktListener()解放出来，其对性能的影响微乎其微，其自定义注解的实现都是限定为RetentionPolicy.CLASS，也就是注解到编译出.class文件为止有效，在运行时不额外消耗性能。这个库在Android Studio上配合[android-butterknife-zelezny][54]使用更酸爽！|
 |[BaseRecyclerViewAdapterHelper][36]| * 优化Adapter代码（减少百分之70%代码 <br> * 添加点击item点击、长按事件、以及item子控件的点击事件 <br> * 添加加载动画（一行代码轻松切换5种默认动画） <br> * 添加头部、尾部、下拉刷新、上拉加载（感觉又回到ListView时代）<br> * 设置自定义的加载更多布局添加分组（随心定义分组头部）<br> * 自定义不同的item类型（简单配置、无需重写额外方法） <br> * 设置空布局（比Listview的setEmptyView还要好用！） <br> * 添加拖拽item |
 |[Fragmentation][37]|为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。<br>![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/wechat.gif)|
 |[Material-Animations][50]|![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)|
@@ -209,8 +209,8 @@
 [50]: https://github.com/lgvalle/Material-Animations
 [51]: https://github.com/xcltapestry/XCL-Charts
 [52]: https://github.com/zhihu/Matisse
-[53]: https://github.com/jeasonlzy/NineGridView
-[54]: https://github.com/jeasonlzy/NineGridView
+[53]: http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html
+[54]: https://github.com/avast/android-butterknife-zelezny
 [55]: https://github.com/jeasonlzy/NineGridView
 [56]: https://github.com/jeasonlzy/NineGridView
 [57]: https://github.com/jeasonlzy/NineGridView
