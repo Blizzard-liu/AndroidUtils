@@ -67,7 +67,7 @@
 
 | 名称 | 简介  | 
 |------------|---------------|
-|[AndPermission][8]|安卓权限请求库|
+|[AndPermission][8]|安卓权限请求库[ Android 6.0 运行时权限管理最佳实践][http://blog.csdn.net/yanzhenjie1003/article/details/52503533]|
 
 
 #### 工具类
@@ -79,13 +79,15 @@
 |[Android开发人员不得不收集的代码][2]|常用工具类,超详细,star超`9k`|
 |[logger][3]|优秀的log打印库|
 |[Luban][26]|Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。|
-|[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
-|[baseAdapter][32]|Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。|
+|[gson][58]|Google的|
+|[Fastjson][59]|阿里的|
 |[butterknife][33]|这个开源库可以让我们从大量的findViewById()和setOnclicktListener()解放出来，其对性能的影响微乎其微，其自定义注解的实现都是限定为RetentionPolicy.CLASS，也就是注解到编译出.class文件为止有效，在运行时不额外消耗性能。这个库在Android Studio上配合[android-butterknife-zelezny][54]使用更酸爽！|
+|[baseAdapter][32]|Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。|
 |[BaseRecyclerViewAdapterHelper][36]| * 优化Adapter代码（减少百分之70%代码 <br> * 添加点击item点击、长按事件、以及item子控件的点击事件 <br> * 添加加载动画（一行代码轻松切换5种默认动画） <br> * 添加头部、尾部、下拉刷新、上拉加载（感觉又回到ListView时代）<br> * 设置自定义的加载更多布局添加分组（随心定义分组头部）<br> * 自定义不同的item类型（简单配置、无需重写额外方法） <br> * 设置空布局（比Listview的setEmptyView还要好用！） <br> * 添加拖拽item |
 |[Fragmentation][37]|为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。<br>![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/wechat.gif)|
 |[Material-Animations][50]|![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)|
 |[RxJava][39]|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|
+|[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
 |[leakcanary][49]|检测app内存泄露|
 
 #### 轮播图
@@ -217,8 +219,8 @@
 [55]: https://github.com/addappcn/android-pickers
 [56]: https://github.com/chrisbanes/cheesesquare
 [57]: http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html?mType=Group
-[58]: https://github.com/jeasonlzy/NineGridView
-[59]: https://github.com/jeasonlzy/NineGridView
+[58]: https://github.com/google/gson
+[59]: https://github.com/alibaba/fastjson/wiki/Android%E7%89%88%E6%9C%AC
 [60]: https://github.com/jeasonlzy/NineGridView
 
 
