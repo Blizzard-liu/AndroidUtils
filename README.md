@@ -4,6 +4,7 @@
 ## 收藏工作中常用的android工具类,lib库等...都是非常优秀的库!<br>开发必备神器!!! 持续更新...欢迎收藏Star...<br>
 ****
 ## 目录
+* [收藏网站](#收藏网站)
 * [lib库](#lib库)  
    * [网络请求](#网络请求)
    * [图片加载框架](#图片加载框架)
@@ -21,6 +22,14 @@
    * [自定义控件](#自定义控件)
   
 ****
+### 收藏网站
+-----------
+
+| 名称 | 简介  | 
+|------------|---------------|
+|[free-programming-books-zh_CN][62]|免费的计算机编程类书籍(中文版)|
+|[Android Studio插件整理][63]|使用好Android Studio插件能大量的减少我们的工作量。|
+
 
 ### lib库
 -----------
@@ -223,8 +232,8 @@
 [59]: https://github.com/alibaba/fastjson/wiki/Android%E7%89%88%E6%9C%AC
 [60]: http://blog.csdn.net/yanzhenjie1003/article/details/52503533
 [61]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/GsonUtil.java
-[62]: https://github.com/google/gson
-[63]: https://github.com/google/gson
+[62]: https://github.com/justjavac/free-programming-books-zh_CN
+[63]: http://www.jianshu.com/p/c76b0d8a642d
 [64]: https://github.com/google/gson
 [65]: https://github.com/google/gson
 [66]: https://github.com/google/gson
