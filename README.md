@@ -1,5 +1,6 @@
 # AndroidUtils
-> 本来是打算收藏工具类的,但转念一想,已经有这么多优秀的库了,就没必要再去重复造轮子了,便归纳工作中比较实用的库吧,不用在花精力去找了,也非常欢迎各位和我一起维护!
+> 本来是打算收藏工具类的,但转念一想,已经有这么多优秀的库了,就没必要再去重复造轮子了,便归纳工作中比较实用的库吧,不用在花精力去找了,也非常欢迎各位和我一起维护!<br>
+简书: http://www.jianshu.com/u/a6650fb638c8
 ## 收藏工作中常用的android工具类,lib库等...都是非常优秀的库!<br>开发必备神器!!! 持续更新...欢迎收藏Star...<br>
 ****
 ## 目录
@@ -149,6 +150,7 @@
 |[JellyToggleButton][48]|![](https://github.com/Nightonke/JellyToggleButton/raw/master/img/JellyToggleButton4.gif?raw=true)| 
 |[GoodView][47]|Android点赞+1效果，支持文本和图像<br> ![](https://github.com/venshine/GoodView/raw/master/screenshot/screenshot.gif)| 
 |[Android-ObservableScrollView][46]|![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif) ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo10.gif) ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo13.gif)| 
+|[android-pickers][55]|安卓选择器类库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、职业、学历、星座等）、城市地址选择器（分省级、地级及县级）、数字选择器（可用于年龄、身高、体重、温度等）等……可以切换不同的模式（目前有普通模式，3d滚轮模式）  <br>![](https://github.com/addappcn/android-pickers/raw/master/screenshots/Screenshot_2017-04-21-15-45-59.png)| 
 |[XCL-Charts][51]|Android图表库(XCL-Carts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图(Cir…)| 
 
 
@@ -211,7 +213,7 @@
 [52]: https://github.com/zhihu/Matisse
 [53]: http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html
 [54]: https://github.com/avast/android-butterknife-zelezny
-[55]: https://github.com/jeasonlzy/NineGridView
+[55]: https://github.com/addappcn/android-pickers
 [56]: https://github.com/jeasonlzy/NineGridView
 [57]: https://github.com/jeasonlzy/NineGridView
 [58]: https://github.com/jeasonlzy/NineGridView
