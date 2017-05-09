@@ -95,7 +95,7 @@
 |[BaseRecyclerViewAdapterHelper][36]| * 优化Adapter代码（减少百分之70%代码 <br> * 添加点击item点击、长按事件、以及item子控件的点击事件 <br> * 添加加载动画（一行代码轻松切换5种默认动画） <br> * 添加头部、尾部、下拉刷新、上拉加载（感觉又回到ListView时代）<br> * 设置自定义的加载更多布局添加分组（随心定义分组头部）<br> * 自定义不同的item类型（简单配置、无需重写额外方法） <br> * 设置空布局（比Listview的setEmptyView还要好用！） <br> * 添加拖拽item |
 |[Fragmentation][37]|为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。<br>![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/wechat.gif)|
 |[Material-Animations][50]|![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)|
-|[RxJava][39]|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|
+|[RxJava][39]|[给 Android 开发者的 RxJava 详解][69]|
 |[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
 |[packer-ng-plugin][66]|下一代Android打包工具，100个渠道包只需要10秒钟|
 |[leakcanary][49]|检测app内存泄露|
@@ -119,7 +119,8 @@
 
 | 名称 | 简介  | 
 |------------|--------------|
-|[BGAQRCode-Android][17]|QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式|  
+|[BGAQRCode-Android][17]|QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式|
+|[barcodescanner][68]|一个基于ZXing和ZBar的容易使用和扩展的条形码扫描库|  
 
 #### 屏幕适配
 
@@ -240,8 +241,8 @@
 [65]: https://github.com/Frank-Zhu/PullZoomView
 [66]: https://github.com/mcxiaoke/packer-ng-plugin
 [67]: https://github.com/hdodenhof/CircleImageView
-[68]: https://github.com/google/gson
-[69]: https://github.com/google/gson
+[68]: https://github.com/dm77/barcodescanner
+[69]: http://gank.io/post/560e15be2dca930e00da1083
 [70]: https://github.com/google/gson
 [71]: https://github.com/google/gson
 [72]: https://github.com/google/gson
