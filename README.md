@@ -91,6 +91,7 @@
 |[gson][58]|Google的  [GsonUtil][61]|
 |[Fastjson][59]|阿里的 |
 |[butterknife][33]|这个开源库可以让我们从大量的findViewById()和setOnclicktListener()解放出来，其对性能的影响微乎其微，其自定义注解的实现都是限定为RetentionPolicy.CLASS，也就是注解到编译出.class文件为止有效，在运行时不额外消耗性能。这个库在Android Studio上配合[android-butterknife-zelezny][54]使用更酸爽！|
+|[vlayout][70]|阿里出品的基础 UI 框架，用于快速实现页面的复杂布局，在手机天猫 Android版 内广泛使用. [相关博客][71]<br>![](https://camo.githubusercontent.com/2b947a15f5502af5a4639a5927d68052ccfb54a3/687474703a2f2f696d67332e746263646e2e636e2f4c312f3436312f312f31623962666234323030393034376637356365653038616537343135303564653263373461633061)|
 |[baseAdapter][32]|Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。|
 |[BaseRecyclerViewAdapterHelper][36]| * 优化Adapter代码（减少百分之70%代码 <br> * 添加点击item点击、长按事件、以及item子控件的点击事件 <br> * 添加加载动画（一行代码轻松切换5种默认动画） <br> * 添加头部、尾部、下拉刷新、上拉加载（感觉又回到ListView时代）<br> * 设置自定义的加载更多布局添加分组（随心定义分组头部）<br> * 自定义不同的item类型（简单配置、无需重写额外方法） <br> * 设置空布局（比Listview的setEmptyView还要好用！） <br> * 添加拖拽item |
 |[Fragmentation][37]|为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。<br>![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/wechat.gif)|
@@ -243,8 +244,8 @@
 [67]: https://github.com/hdodenhof/CircleImageView
 [68]: https://github.com/dm77/barcodescanner
 [69]: http://gank.io/post/560e15be2dca930e00da1083
-[70]: https://github.com/google/gson
-[71]: https://github.com/google/gson
+[70]: https://github.com/alibaba/vlayout
+[71]: http://www.jianshu.com/p/6b658c8802d1
 [72]: https://github.com/google/gson
 
 
