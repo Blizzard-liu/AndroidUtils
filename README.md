@@ -74,8 +74,9 @@
 
 | 名称 | 简介  | 
 |------------|---------------|
+|[Android Design Support Library][57]|这个并不是一个第三方库，是谷歌官方出的支持库,[demo地址][56]|
 |[Android工具类库][1]|star超`1k`|
-|[Android开发人员不得不收集的代码][2]|常用工具类,star超`9k`|
+|[Android开发人员不得不收集的代码][2]|常用工具类,超详细,star超`9k`|
 |[logger][3]|优秀的log打印库|
 |[Luban][26]|Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。|
 |[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
@@ -85,7 +86,7 @@
 |[Fragmentation][37]|为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。<br>![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/wechat.gif)|
 |[Material-Animations][50]|![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)|
 |[RxJava][39]|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|
-|[leakcanary][49]|检测内存泄露|
+|[leakcanary][49]|检测app内存泄露|
 
 #### 轮播图
 
@@ -214,8 +215,8 @@
 [53]: http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html
 [54]: https://github.com/avast/android-butterknife-zelezny
 [55]: https://github.com/addappcn/android-pickers
-[56]: https://github.com/jeasonlzy/NineGridView
-[57]: https://github.com/jeasonlzy/NineGridView
+[56]: https://github.com/chrisbanes/cheesesquare
+[57]: http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html?mType=Group
 [58]: https://github.com/jeasonlzy/NineGridView
 [59]: https://github.com/jeasonlzy/NineGridView
 [60]: https://github.com/jeasonlzy/NineGridView
