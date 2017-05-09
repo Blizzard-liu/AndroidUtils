@@ -7,8 +7,7 @@
 * [收藏网站](#收藏网站)
 * [lib库](#lib库)  
    * [网络请求](#网络请求)
-   * [图片加载框架](#图片加载框架)
-   * [图片选择器](#图片选择器)
+   * [图片相关](#图片相关)
    * [缓存框架](#缓存框架)
    * [数据库](#数据库)
    * [权限管理](#权限管理)
@@ -29,6 +28,7 @@
 |------------|---------------|
 |[free-programming-books-zh_CN][62]|免费的计算机编程类书籍(中文版)|
 |[Android Studio插件整理][63]|使用好Android Studio插件能大量的减少我们的工作量。|
+|[极客导航][64]|程序员自己的导航!|
 
 
 ### lib库
@@ -41,21 +41,21 @@
 |[Retrofit][5]|star超`2w`|
 |[okhttp-utils][20]|鸿神的okhttp的辅助类|
 
-#### 图片加载框架
+
+
+#### 图片相关
 
 | 名称 | 简介  | 
 |------------|---------------|
 |[glide][9]|Google员工私人项目，Google很多项目在用。picasso能做到的它都能做到，并且还支持gif.关于Glide和Picasso这篇译文有一个比较详细的对比介绍 [Glide VS Picasso][53]|
 |[Picasso][10]|这个是square 开源的一个强大的图片下载和缓存库。很受欢迎，许多项目都有在使用这个库。使用方式也很简单。|
 |[Fresco][11]|这个是FaceBook的开源项目，链接中有中文的详细文档。这个库除了支持的图片格式很广泛外，最大的特性就是在内存优化这块，使用这个库能有效防止OOM情况的出现。|
-
-#### 图片选择器
-
-| 名称 | 简介  | 
-|------------|---------------|
 |[ImagePicker][14]|完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数|
 |[PictureSelector][15]|android多图选择器 图片/视频 单选or多选，以及视频录制|
 |[Matisse][52]|知乎开源图片选择器,支持主题切换|
+|[CircleImageView][67]|一个使用很广泛的圆形图片库<br> ![](https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67)|
+
+
 
 #### 缓存框架
 
@@ -97,6 +97,7 @@
 |[Material-Animations][50]|![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)|
 |[RxJava][39]|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|
 |[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
+|[packer-ng-plugin][66]|下一代Android打包工具，100个渠道包只需要10秒钟|
 |[leakcanary][49]|检测app内存泄露|
 
 #### 轮播图
@@ -147,6 +148,7 @@
 
 | 名称 | 简介  | 
 |------------|---------------|
+|[PullZoomView][65]|![](https://raw.githubusercontent.com/Frank-Zhu/PullZoomView/master/art/pull-to-zoom.gif)| 
 |[BGABadgeView-Android][21]|Android 徽章控件 ![](https://cloud.githubusercontent.com/assets/8949716/17483429/8f5ab3aa-5db8-11e6-808c-6033f5d5c4ec.gif)|  
 |[LQREmojiLibrary][23]|一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择。<br>![](https://github.com/GitLqr/LQREmojiLibrary/raw/master/screenshots/1.gif)| 
 |[LQRAudioRecord][24]|集成录音与播音功能，使用简单方便!<br>![](https://github.com/GitLqr/LQRAudioRecord/raw/master/screenshots/1.gif)| 
@@ -234,10 +236,10 @@
 [61]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/GsonUtil.java
 [62]: https://github.com/justjavac/free-programming-books-zh_CN
 [63]: http://www.jianshu.com/p/c76b0d8a642d
-[64]: https://github.com/google/gson
-[65]: https://github.com/google/gson
-[66]: https://github.com/google/gson
-[67]: https://github.com/google/gson
+[64]: http://www.jikedaohang.com/
+[65]: https://github.com/Frank-Zhu/PullZoomView
+[66]: https://github.com/mcxiaoke/packer-ng-plugin
+[67]: https://github.com/hdodenhof/CircleImageView
 [68]: https://github.com/google/gson
 [69]: https://github.com/google/gson
 [70]: https://github.com/google/gson
