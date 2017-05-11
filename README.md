@@ -4,10 +4,10 @@
 ## 收藏工作中常用的android工具类,lib库等...都是非常优秀的库!<br>开发必备神器!!! 持续更新...欢迎收藏Star...<br>
 ****
 ## 目录
+* [收藏网站](#收藏网站)
 * [lib库](#lib库)  
    * [网络请求](#网络请求)
-   * [图片加载框架](#图片加载框架)
-   * [图片选择器](#图片选择器)
+   * [图片相关](#图片相关)
    * [缓存框架](#缓存框架)
    * [数据库](#数据库)
    * [权限管理](#权限管理)
@@ -21,6 +21,15 @@
    * [自定义控件](#自定义控件)
   
 ****
+### 收藏网站
+-----------
+
+| 名称 | 简介  | 
+|------------|---------------|
+|[free-programming-books-zh_CN][62]|免费的计算机编程类书籍(中文版)|
+|[Android Studio插件整理][63]|使用好Android Studio插件能大量的减少我们的工作量。|
+|[极客导航][64]|程序员自己的导航!|
+
 
 ### lib库
 -----------
@@ -32,21 +41,21 @@
 |[Retrofit][5]|star超`2w`|
 |[okhttp-utils][20]|鸿神的okhttp的辅助类|
 
-#### 图片加载框架
+
+
+#### 图片相关
 
 | 名称 | 简介  | 
 |------------|---------------|
 |[glide][9]|Google员工私人项目，Google很多项目在用。picasso能做到的它都能做到，并且还支持gif.关于Glide和Picasso这篇译文有一个比较详细的对比介绍 [Glide VS Picasso][53]|
 |[Picasso][10]|这个是square 开源的一个强大的图片下载和缓存库。很受欢迎，许多项目都有在使用这个库。使用方式也很简单。|
 |[Fresco][11]|这个是FaceBook的开源项目，链接中有中文的详细文档。这个库除了支持的图片格式很广泛外，最大的特性就是在内存优化这块，使用这个库能有效防止OOM情况的出现。|
-
-#### 图片选择器
-
-| 名称 | 简介  | 
-|------------|---------------|
 |[ImagePicker][14]|完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数|
 |[PictureSelector][15]|android多图选择器 图片/视频 单选or多选，以及视频录制|
 |[Matisse][52]|知乎开源图片选择器,支持主题切换|
+|[CircleImageView][67]|一个使用很广泛的圆形图片库<br> ![](https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67)|
+
+
 
 #### 缓存框架
 
@@ -67,7 +76,7 @@
 
 | 名称 | 简介  | 
 |------------|---------------|
-|[AndPermission][8]|安卓权限请求库[ Android 6.0 运行时权限管理最佳实践][http://blog.csdn.net/yanzhenjie1003/article/details/52503533]|
+|[AndPermission][8]|安卓权限请求库[ Android 6.0 运行时权限管理最佳实践][60]|
 
 
 #### 工具类
@@ -79,15 +88,17 @@
 |[Android开发人员不得不收集的代码][2]|常用工具类,超详细,star超`9k`|
 |[logger][3]|优秀的log打印库|
 |[Luban][26]|Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。|
-|[gson][58]|Google的|
-|[Fastjson][59]|阿里的|
+|[gson][58]|Google的  [GsonUtil][61]|
+|[Fastjson][59]|阿里的 |
 |[butterknife][33]|这个开源库可以让我们从大量的findViewById()和setOnclicktListener()解放出来，其对性能的影响微乎其微，其自定义注解的实现都是限定为RetentionPolicy.CLASS，也就是注解到编译出.class文件为止有效，在运行时不额外消耗性能。这个库在Android Studio上配合[android-butterknife-zelezny][54]使用更酸爽！|
+|[vlayout][70]|阿里出品的基础 UI 框架，用于快速实现页面的复杂布局，在手机天猫 Android版 内广泛使用. [相关博客][71]<br>![](https://camo.githubusercontent.com/2b947a15f5502af5a4639a5927d68052ccfb54a3/687474703a2f2f696d67332e746263646e2e636e2f4c312f3436312f312f31623962666234323030393034376637356365653038616537343135303564653263373461633061)|
 |[baseAdapter][32]|Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。|
 |[BaseRecyclerViewAdapterHelper][36]| * 优化Adapter代码（减少百分之70%代码 <br> * 添加点击item点击、长按事件、以及item子控件的点击事件 <br> * 添加加载动画（一行代码轻松切换5种默认动画） <br> * 添加头部、尾部、下拉刷新、上拉加载（感觉又回到ListView时代）<br> * 设置自定义的加载更多布局添加分组（随心定义分组头部）<br> * 自定义不同的item类型（简单配置、无需重写额外方法） <br> * 设置空布局（比Listview的setEmptyView还要好用！） <br> * 添加拖拽item |
 |[Fragmentation][37]|为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。<br>![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/wechat.gif)|
 |[Material-Animations][50]|![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)|
-|[RxJava][39]|RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.|
+|[RxJava][39]|[给 Android 开发者的 RxJava 详解][69]|
 |[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
+|[packer-ng-plugin][66]|下一代Android打包工具，100个渠道包只需要10秒钟|
 |[leakcanary][49]|检测app内存泄露|
 
 #### 轮播图
@@ -109,7 +120,8 @@
 
 | 名称 | 简介  | 
 |------------|--------------|
-|[BGAQRCode-Android][17]|QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式|  
+|[BGAQRCode-Android][17]|QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式|
+|[barcodescanner][68]|一个基于ZXing和ZBar的容易使用和扩展的条形码扫描库|  
 
 #### 屏幕适配
 
@@ -138,6 +150,7 @@
 
 | 名称 | 简介  | 
 |------------|---------------|
+|[PullZoomView][65]|![](https://raw.githubusercontent.com/Frank-Zhu/PullZoomView/master/art/pull-to-zoom.gif)| 
 |[BGABadgeView-Android][21]|Android 徽章控件 ![](https://cloud.githubusercontent.com/assets/8949716/17483429/8f5ab3aa-5db8-11e6-808c-6033f5d5c4ec.gif)|  
 |[LQREmojiLibrary][23]|一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择。<br>![](https://github.com/GitLqr/LQREmojiLibrary/raw/master/screenshots/1.gif)| 
 |[LQRAudioRecord][24]|集成录音与播音功能，使用简单方便!<br>![](https://github.com/GitLqr/LQRAudioRecord/raw/master/screenshots/1.gif)| 
@@ -221,6 +234,18 @@
 [57]: http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html?mType=Group
 [58]: https://github.com/google/gson
 [59]: https://github.com/alibaba/fastjson/wiki/Android%E7%89%88%E6%9C%AC
-[60]: https://github.com/jeasonlzy/NineGridView
+[60]: http://blog.csdn.net/yanzhenjie1003/article/details/52503533
+[61]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/GsonUtil.java
+[62]: https://github.com/justjavac/free-programming-books-zh_CN
+[63]: http://www.jianshu.com/p/c76b0d8a642d
+[64]: http://www.jikedaohang.com/
+[65]: https://github.com/Frank-Zhu/PullZoomView
+[66]: https://github.com/mcxiaoke/packer-ng-plugin
+[67]: https://github.com/hdodenhof/CircleImageView
+[68]: https://github.com/dm77/barcodescanner
+[69]: http://gank.io/post/560e15be2dca930e00da1083
+[70]: https://github.com/alibaba/vlayout
+[71]: http://www.jianshu.com/p/6b658c8802d1
+[72]: https://github.com/google/gson
 
 
