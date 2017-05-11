@@ -19,7 +19,7 @@ import java.util.Map;
  * @描述 ${TODO}
  * @更新者 ${Author}
  * @更新时间 2017/5/9
- * @更新描述 ${TODO}
+ * @更新描述 ${compile 'com.google.code.gson:gson:2.2.4'}
  */
 
 public class GsonUtil {
