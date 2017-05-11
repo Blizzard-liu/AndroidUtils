@@ -48,7 +48,7 @@
 | 名称 | 简介  | 
 |------------|---------------|
 |[glide][9]|Google员工私人项目，Google很多项目在用。picasso能做到的它都能做到，并且还支持gif.关于Glide和Picasso这篇译文有一个比较详细的对比介绍 [Glide VS Picasso][53]|
-|[Picasso][10]|这个是square 开源的一个强大的图片下载和缓存库。很受欢迎，许多项目都有在使用这个库。使用方式也很简单。|
+|[Picasso][10]|这个是square 开源的一个强大的图片下载和缓存库。很受欢迎，许多项目都有在使用这个库。使用方式也很简单。[PicassoUtil][72]|
 |[Fresco][11]|这个是FaceBook的开源项目，链接中有中文的详细文档。这个库除了支持的图片格式很广泛外，最大的特性就是在内存优化这块，使用这个库能有效防止OOM情况的出现。|
 |[ImagePicker][14]|完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数|
 |[PictureSelector][15]|android多图选择器 图片/视频 单选or多选，以及视频录制|
@@ -246,6 +246,17 @@
 [69]: http://gank.io/post/560e15be2dca930e00da1083
 [70]: https://github.com/alibaba/vlayout
 [71]: http://www.jianshu.com/p/6b658c8802d1
-[72]: https://github.com/google/gson
+[72]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/PicassoUtil.java
 
-
+[73]: https://github.com/google/gson
+[74]: https://github.com/google/gson
+[75]: https://github.com/google/gson
+[76]: https://github.com/google/gson
+[77]: https://github.com/google/gson
+[78]: https://github.com/google/gson
+[79]: https://github.com/google/gson
+[80]: https://github.com/google/gson
+[81]: https://github.com/google/gson
+[82]: https://github.com/google/gson
+[83]: https://github.com/google/gson
+[84]: https://github.com/google/gson
