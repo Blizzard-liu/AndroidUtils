@@ -148,6 +148,7 @@
 |[SuperPlayer][40]|SuperPlayer 是一个基于IjkPlayer的控制器，支持手势操作，滑动快进，快退，支持，上滑音量亮度的变化，支持指点位置播放，播放源的切换| 
 |[jjdxm_ijkplayer][42]|基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装。 是一个适用于 Android 的 RTMP 播放界面 SDK，可高度定制化和二次开发。特色是同时支持 H.264 软编／硬编和 AAC 软编／硬编。主要是支持RIMP、HLS、MP4、M4A等视频格式的播放。<br>![](https://raw.githubusercontent.com/jjdxmashl/jjdxm_ijkplayer/master/screenshots/icon01.gif)| 
 |[ijkplayer][78]|Ijkplayer 是Bilibili发布的基于 FFplay 的轻量级 Android/iOS 视频播放器。实现了跨平台功能，API 易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供 Android 平台下应用弹幕集成的解决方案。| 
+|[WeiXinRecordedDemo][81]|视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果<br>![](https://github.com/CarGuo/GSYVideoPlayer/raw/master/01.gif)| 
 |[WeiXinRecordedDemo][80]|仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑<br>![](http://upload-images.jianshu.io/upload_images/2582948-06a1126d949b92b6.gif?imageMogr2/auto-orient/strip)| 
 
 
@@ -281,7 +282,7 @@
 [78]: https://github.com/Bilibili/ijkplayer
 [79]: https://github.com/HeZaiJin/SlantedTextView
 [80]: https://github.com/Zhaoss/WeiXinRecordedDemo
-[81]: https://github.com/google/gson
+[81]: https://github.com/CarGuo/GSYVideoPlayer
 [82]: https://github.com/google/gson
 [83]: https://github.com/google/gson
 [84]: https://github.com/google/gson
