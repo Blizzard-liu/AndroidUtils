@@ -98,6 +98,7 @@
 |[Material-Animations][50]|![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)|
 |[RxJava][39]|[给 Android 开发者的 RxJava 详解][69]|
 |[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
+|[update][76]|清晰灵活简单易用的应用更新库<br>![](https://github.com/czy1121/update/raw/master/screenshot4.png)|
 |[packer-ng-plugin][66]|下一代Android打包工具，100个渠道包只需要10秒钟|
 |[leakcanary][49]|检测app内存泄露|
 
@@ -155,6 +156,7 @@
 |[LQREmojiLibrary][23]|一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择。<br>![](https://github.com/GitLqr/LQREmojiLibrary/raw/master/screenshots/1.gif)| 
 |[LQRAudioRecord][24]|集成录音与播音功能，使用简单方便!<br>![](https://github.com/GitLqr/LQRAudioRecord/raw/master/screenshots/1.gif)| 
 |[LQRNineGridImageView][25]|仿微信群头像九宫格控件 <br>![](https://github.com/GitLqr/LQRNineGridImageView/raw/master/screenshots/1.png)| 
+|[AlphaTabsIndicator][75]|高仿微信底部状态栏的轻量级库，没有MagicIndicator那么臃肿，符合大多数BottomTabBar应用设计需求 <br>![](https://github.com/yingLanNull/AlphaTabsIndicator/raw/master/show/show.gif)| 
 |[MagicIndicator][30]|强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等 <br>![](https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif)| 
 |[SmartTabLayout][31]|![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif)<br>![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo4.gif)| 
 |[PagerSlidingTabStrip][34]|![](https://raw.githubusercontent.com/jpardogo/PagerSlidingTabStrip/master/art/material_tabs.gif)| 
@@ -250,8 +252,8 @@
 [72]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/PicassoUtil.java
 [73]: https://github.com/JZXiang/TimePickerDialog
 [74]: http://blog.csdn.net/yanzhenjie1003/article/details/51319181
-[75]: https://github.com/google/gson
-[76]: https://github.com/google/gson
+[75]: https://github.com/yingLanNull/AlphaTabsIndicator
+[76]: https://github.com/czy1121/update
 [77]: https://github.com/google/gson
 [78]: https://github.com/google/gson
 [79]: https://github.com/google/gson
