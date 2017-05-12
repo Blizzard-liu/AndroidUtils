@@ -134,7 +134,7 @@
 | 名称 | 简介  | 
 |------------|--------------|
 |[BGARefreshLayout-Android][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
-|[android-Ultra-Pull-To-Refresh][29]|这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。支持 API LEVEL >= 8。<br>![](https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966)| 
+|[android-Ultra-Pull-To-Refresh][29]|这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。支持 API LEVEL >= 8。[android-Ultra-Pull-To-Refresh/SwipeRefreshLayout嵌套ViewPager/ScrollView滑动冲突解决][74]<br>![](https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966)| 
 
 #### 视频播放
 
@@ -249,7 +249,7 @@
 [71]: http://www.jianshu.com/p/6b658c8802d1
 [72]: https://github.com/Blizzard-liu/AndroidUtils/blob/master/utils/src/main/java/com/example/utils/PicassoUtil.java
 [73]: https://github.com/JZXiang/TimePickerDialog
-[74]: https://github.com/google/gson
+[74]: http://blog.csdn.net/yanzhenjie1003/article/details/51319181
 [75]: https://github.com/google/gson
 [76]: https://github.com/google/gson
 [77]: https://github.com/google/gson
