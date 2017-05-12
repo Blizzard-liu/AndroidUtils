@@ -17,7 +17,7 @@
    * [二维码](#二维码)
    * [屏幕适配](#屏幕适配)
    * [下拉刷新](#下拉刷新)
-   * [视频播放](#视频播放)
+   * [视频相关](#视频相关)
    * [自定义控件](#自定义控件)
    * [完整项目](#完整项目)
   
@@ -103,6 +103,7 @@
 |[packer-ng-plugin][66]|下一代Android打包工具，100个渠道包只需要10秒钟|
 |[leakcanary][49]|检测app内存泄露|
 
+
 #### 轮播图
 
 | 名称 | 简介  | 
@@ -138,7 +139,7 @@
 |[BGARefreshLayout-Android][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
 |[android-Ultra-Pull-To-Refresh][29]|这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。支持 API LEVEL >= 8。[android-Ultra-Pull-To-Refresh/SwipeRefreshLayout嵌套ViewPager/ScrollView滑动冲突解决][74]<br>![](https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966)| 
 
-#### 视频播放
+#### 视频相关
 
 | 名称 | 简介  | 
 |------------|---------------|
@@ -147,6 +148,9 @@
 |[SuperPlayer][40]|SuperPlayer 是一个基于IjkPlayer的控制器，支持手势操作，滑动快进，快退，支持，上滑音量亮度的变化，支持指点位置播放，播放源的切换| 
 |[jjdxm_ijkplayer][42]|基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装。 是一个适用于 Android 的 RTMP 播放界面 SDK，可高度定制化和二次开发。特色是同时支持 H.264 软编／硬编和 AAC 软编／硬编。主要是支持RIMP、HLS、MP4、M4A等视频格式的播放。<br>![](https://raw.githubusercontent.com/jjdxmashl/jjdxm_ijkplayer/master/screenshots/icon01.gif)| 
 |[ijkplayer][78]|Ijkplayer 是Bilibili发布的基于 FFplay 的轻量级 Android/iOS 视频播放器。实现了跨平台功能，API 易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供 Android 平台下应用弹幕集成的解决方案。| 
+|[WeiXinRecordedDemo][80]|仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑<br>![](http://upload-images.jianshu.io/upload_images/2582948-06a1126d949b92b6.gif?imageMogr2/auto-orient/strip)| 
+
+
 
 
 
@@ -157,6 +161,7 @@
 |------------|---------------|
 |[PullZoomView][65]|![](https://raw.githubusercontent.com/Frank-Zhu/PullZoomView/master/art/pull-to-zoom.gif)| 
 |[BGABadgeView-Android][21]|Android 徽章控件 ![](https://cloud.githubusercontent.com/assets/8949716/17483429/8f5ab3aa-5db8-11e6-808c-6033f5d5c4ec.gif)|  
+|[SlantedTextView][79]|一个倾斜的TextView,适用于标签效果。<br>![](https://github.com/HeZaiJin/SlantedTextView/raw/master/screen_shot/screenshot.png)|  
 |[LQREmojiLibrary][23]|一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择。<br>![](https://github.com/GitLqr/LQREmojiLibrary/raw/master/screenshots/1.gif)| 
 |[LQRAudioRecord][24]|集成录音与播音功能，使用简单方便!<br>![](https://github.com/GitLqr/LQRAudioRecord/raw/master/screenshots/1.gif)| 
 |[LQRNineGridImageView][25]|仿微信群头像九宫格控件 <br>![](https://github.com/GitLqr/LQRNineGridImageView/raw/master/screenshots/1.png)| 
@@ -274,8 +279,8 @@
 [76]: https://github.com/czy1121/update
 [77]: https://github.com/GitLqr/LQRWeChat
 [78]: https://github.com/Bilibili/ijkplayer
-[79]: https://github.com/google/gson
-[80]: https://github.com/google/gson
+[79]: https://github.com/HeZaiJin/SlantedTextView
+[80]: https://github.com/Zhaoss/WeiXinRecordedDemo
 [81]: https://github.com/google/gson
 [82]: https://github.com/google/gson
 [83]: https://github.com/google/gson
