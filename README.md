@@ -193,21 +193,15 @@
 | 名称 | 简介  | 
 |------------|---------------|
 |[LQRWeChat][77]|本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。<br> ![](https://github.com/GitLqr/LQRWeChat/raw/master/screenshots/1.gif)|
-|[cniao5-news][82]|菜鸟新闻 客户端是一个仿照36Kr官方,实 时抓取36Kr官网数据的资讯类新闻客户端。
-包括首页新闻,详情,发现,活动,实时数据抓取,侧滑效果,第三方登录以及分享,消息推送等相关功能客户端。
-课程地址： http://www.cniao5.com/clazz/view/10076.html
-视频下载链接： http://pan.baidu.com/s/1eQLyQxc 密码：3ts1<br> ![](https://github.com/yxs666/cniao5-news/raw/master/screenshot/pull_4%20(2).gif)|
+|[cniao5-news][82]|菜鸟新闻 客户端是一个仿照36Kr官方,实 时抓取36Kr官网数据的资讯类新闻客户端。包括首页新闻,详情,发现,活动,实时数据抓取,侧滑效果,第三方登录以及分享,消息推送等相关功能客户端。课程地址： http://www.cniao5.com/clazz/view/10076.html 视频下载链接： http://pan.baidu.com/s/1eQLyQxc 密码：3ts1<br> ![](https://github.com/yxs666/cniao5-news/raw/master/screenshot/pull_4%20(2).gif)|
 |[KuaiChuan][83]|仿茄子快传的一款文件传输应用， 涉及到Socket通信，包括TCP，UDP通信<br> ![](https://github.com/mayubao/KuaiChuan/raw/master/ScreenShot/home.gif)|
 |[CoolShopping][84]|一个仿拉手团购的购物App，采用Bmob后台实现短信验证码注册、登录、收藏、订单管理、自动更新等功能，数据抓取自拉手团购<br> ![](https://github.com/myxh/CoolShopping/raw/master/ScreenCapture/0.png)|
 |[RNPolymerPo][85]|RNPolymerPo 是一个基于 React Native 的生活类聚合实战项目，目前由于没有 MAC 设备，所以没有适配 iOS，感兴趣的可以自行适配 app 目录下相关 JS 代码即可。<br> ![](https://github.com/yanbober/RNPolymerPo/raw/master/doc/home_page.png)|
 |[bilibili][86]|仿 bilibili 的客户端<br> ![](https://github.com/HotBitmapGG/bilibili-android-client/raw/master-x/art/03.png)|
 |[Android精准计步器][88]|亲测在小米.魅族.华为上可用<br> ![](https://github.com/linglongxin24/DylanStepCount/raw/master/screenshots/%E9%94%BB%E7%82%BC%E8%AE%A1%E5%88%92.jpg)|
-|[菜鸟微博][89]|有新浪微博的主要功能，有Toolbar,RecyclerView等最新控件的用法；各种快速开发框架的使用，比如 Glide,PhotoView ，EventBus ，OKHttp，pullToRefresh等。 学习视频+源码 视频中还会讲到MVP设计模式以及一些架构师的入门知识。
-课程地址： http://www.cniao5.com/clazz/view/10075.html
-视频下载链接： http://pan.baidu.com/s/1gexq3VP 密码：f0t9<br> ![](https://github.com/yxs666/cniao5-weibo/raw/master/screenshot/10.jpg)|
+|[菜鸟微博][89]|有新浪微博的主要功能，有Toolbar,RecyclerView等最新控件的用法；各种快速开发框架的使用，比如 Glide,PhotoView ，EventBus ，OKHttp，pullToRefresh等。 学习视频+源码 视频中还会讲到MVP设计模式以及一些架构师的入门知识。课程地址： http://www.cniao5.com/clazz/view/10075.html  视频下载链接： http://pan.baidu.com/s/1gexq3VP 密码：f0t9<br> ![](https://github.com/yxs666/cniao5-weibo/raw/master/screenshot/10.jpg)|
 |[在线云打印平台][90]|一个在线云打印平台（android部分）含订单管理、百度地图、二维码等等<br> ![](https://github.com/LehmanHe/A4print/raw/master/picture/a1.png)|
 |[CloudReader 云阅][91]|一款基于网易云音乐UI，使用Gank.Io及豆瓣api开发的符合Google Material Design的Android客户端。项目采取的是MVVM-DataBinding架构开发，现主要包括：干货区、电影区和书籍区三个子模块。DIY网易云音乐原来是如此Cool<br> ![](https://github.com/youlookwhat/CloudReader/raw/master/file/cloudreader.gif)|
-
 |[StockChart][87]|采用主流rxjava+retrofit+dagger2框架，StockChart看股票的分时图，k线图。|
 
 
