@@ -51,8 +51,8 @@
 |[glide][9]|Google员工私人项目，Google很多项目在用。picasso能做到的它都能做到，并且还支持gif.关于Glide和Picasso这篇译文有一个比较详细的对比介绍 [Glide VS Picasso][53]|
 |[Picasso][10]|这个是square 开源的一个强大的图片下载和缓存库。很受欢迎，许多项目都有在使用这个库。使用方式也很简单。[PicassoUtil][72]|
 |[Fresco][11]|这个是FaceBook的开源项目，链接中有中文的详细文档。这个库除了支持的图片格式很广泛外，最大的特性就是在内存优化这块，使用这个库能有效防止OOM情况的出现。|
-|[ImagePicker][14]|完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数|
-|[PictureSelector][15]|android多图选择器 图片/视频 单选or多选，以及视频录制|
+|[ImagePicker][14]|完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数<br>![](https://github.com/jeasonlzy/Screenshots/raw/master/ImagePicker/demo2.gif)|
+|[PictureSelector][15]|android多图选择器 图片/视频 单选or多选，以及视频录制<br>![](https://github.com/LuckSiege/PictureSelector/raw/master/image/1.jpg)|
 |[Matisse][52]|知乎开源图片选择器,支持主题切换<br>![](https://github.com/zhihu/Matisse/raw/master/image/screenshot_zhihu.png)|
 |[transferee][92]|一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件<br> ![](https://github.com/Hitomis/transferee/raw/master/preview/transferee_1.gif)|
 |[CircleImageView][67]|一个使用很广泛的圆形图片库<br> ![](https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67)|
