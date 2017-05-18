@@ -54,6 +54,7 @@
 |[ImagePicker][14]|完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数|
 |[PictureSelector][15]|android多图选择器 图片/视频 单选or多选，以及视频录制|
 |[Matisse][52]|知乎开源图片选择器,支持主题切换|
+|[transferee][92]|一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件<br> ![](https://github.com/Hitomis/transferee/raw/master/preview/transferee_1.gif)|
 |[CircleImageView][67]|一个使用很广泛的圆形图片库<br> ![](https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67)|
 
 
@@ -306,7 +307,7 @@
 [89]: https://github.com/yxs666/cniao5-weibo
 [90]: https://github.com/LehmanHe/A4print
 [91]: https://github.com/youlookwhat/CloudReader
-[92]: https://github.com/google/gson
+[92]: https://github.com/Hitomis/transferee
 [93]: https://github.com/google/gson
 [94]: https://github.com/google/gson
 [95]: https://github.com/google/gson
