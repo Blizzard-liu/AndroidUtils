@@ -146,6 +146,7 @@
 | 名称 | 简介  | 
 |------------|---------------|
 |[PreviewSeekBar][27]|![](https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/playmovies.gif)| 
+|[easy-video-player][94]|<一个使用非常简单的视频播放器。基于原生的MediaPlayer API，支持本地和远程视频。br>![](https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase2.png)| 
 |[JieCaoVideoPlayer][35]|![](https://github.com/lipangit/JieCaoVideoPlayer/releases/download/v5.3/j9.jpg)| 
 |[SuperPlayer][40]|SuperPlayer 是一个基于IjkPlayer的控制器，支持手势操作，滑动快进，快退，支持，上滑音量亮度的变化，支持指点位置播放，播放源的切换<br>![](http://www.jcodecraeer.com/uploads/160926/1-16092610135M20.gif)| 
 |[jjdxm_ijkplayer][42]|基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装。 是一个适用于 Android 的 RTMP 播放界面 SDK，可高度定制化和二次开发。特色是同时支持 H.264 软编／硬编和 AAC 软编／硬编。主要是支持RIMP、HLS、MP4、M4A等视频格式的播放。<br>![](https://raw.githubusercontent.com/jjdxmashl/jjdxm_ijkplayer/master/screenshots/icon01.gif)| 
@@ -310,6 +311,6 @@
 [91]: https://github.com/youlookwhat/CloudReader
 [92]: https://github.com/Hitomis/transferee
 [93]: https://github.com/Piasy/BigImageViewer
-[94]: https://github.com/google/gson
+[94]: https://github.com/afollestad/easy-video-player
 [95]: https://github.com/google/gson
 [96]: https://github.com/google/gson
