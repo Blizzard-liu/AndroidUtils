@@ -146,6 +146,8 @@
 | 名称 | 简介  | 
 |------------|---------------|
 |[PreviewSeekBar][27]|![](https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/playmovies.gif)| 
+|[AndroidVideoPlayer][95]|![](https://raw.githubusercontent.com/xiongwei-git/AndroidVideoPlayer/master/img/Screenshot_20151028-195113.png)| 
+|[UniversalVideoView][96]|![](https://github.com/linsea/UniversalVideoView/raw/master/screenshot/screen1.png)| 
 |[easy-video-player][94]|<一个使用非常简单的视频播放器。基于原生的MediaPlayer API，支持本地和远程视频。br>![](https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase2.png)| 
 |[JieCaoVideoPlayer][35]|![](https://github.com/lipangit/JieCaoVideoPlayer/releases/download/v5.3/j9.jpg)| 
 |[SuperPlayer][40]|SuperPlayer 是一个基于IjkPlayer的控制器，支持手势操作，滑动快进，快退，支持，上滑音量亮度的变化，支持指点位置播放，播放源的切换<br>![](http://www.jcodecraeer.com/uploads/160926/1-16092610135M20.gif)| 
@@ -312,5 +314,9 @@
 [92]: https://github.com/Hitomis/transferee
 [93]: https://github.com/Piasy/BigImageViewer
 [94]: https://github.com/afollestad/easy-video-player
-[95]: https://github.com/google/gson
-[96]: https://github.com/google/gson
+[95]: https://github.com/xiongwei-git/AndroidVideoPlayer
+[96]: https://github.com/linsea/UniversalVideoView
+[97]: https://github.com/google/gson
+[98]: https://github.com/google/gson
+[99]: https://github.com/google/gson
+[100]: https://github.com/google/gson
