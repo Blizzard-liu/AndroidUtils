@@ -208,6 +208,7 @@
 |[在线云打印平台][90]|一个在线云打印平台（android部分）含订单管理、百度地图、二维码等等<br> ![](https://github.com/LehmanHe/A4print/raw/master/picture/a1.png)|
 |[CloudReader 云阅][91]|一款基于网易云音乐UI，使用Gank.Io及豆瓣api开发的符合Google Material Design的Android客户端。项目采取的是MVVM-DataBinding架构开发，现主要包括：干货区、电影区和书籍区三个子模块。DIY网易云音乐原来是如此Cool<br> ![](https://github.com/youlookwhat/CloudReader/raw/master/file/cloudreader.gif)|
 |[StockChart][87]|采用主流rxjava+retrofit+dagger2框架，StockChart看股票的分时图，k线图。|
+|[MVP][97]|MVP快速开发框架,App based on Material Design + MVP + Rxjava + Retrofit + Okhttp + RecyclerView + Glide + cache + theme + others + 全民直播 + 高德选址|
 
 
 
@@ -316,7 +317,7 @@
 [94]: https://github.com/afollestad/easy-video-player
 [95]: https://github.com/xiongwei-git/AndroidVideoPlayer
 [96]: https://github.com/linsea/UniversalVideoView
-[97]: https://github.com/google/gson
+[97]: https://github.com/SuperMan42/MVP
 [98]: https://github.com/google/gson
 [99]: https://github.com/google/gson
 [100]: https://github.com/google/gson
