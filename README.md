@@ -181,11 +181,13 @@
 |[NineGridView][41]|类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，使用接口加载图片,支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。<br>![](https://github.com/jeasonlzy/Screenshots/raw/master/NineGridView/demo10.gif)| 
 |[ToggleButton][44]|![](https://github.com/zcweng/SwitchButton/raw/master/21879.gif)| 
 |[JellyToggleButton][48]|![](https://github.com/Nightonke/JellyToggleButton/raw/master/img/JellyToggleButton4.gif?raw=true)| 
-|[GoodView][47]|Android点赞+1效果，支持文本和图像<br> ![](https://github.com/venshine/GoodView/raw/master/screenshot/screenshot.gif)|  
+|[GoodView][47]|Android点赞+1效果，支持文本和图像<br> ![](https://github.com/venshine/GoodView/raw/master/screenshot/screenshot.gif)|
+|[ExpandableTextView][100]|ExpandableTextView 是一个让你轻松实现“展开收起（expand/collapse）功能的控件 <br> ![](https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true)|  
 |[TimePickerDialog][73]|Android时间选择器，支持年月日时分，年月日，年月，月日时分，时分格式，可以设置最小时间和最大时间（精确到分）<br> ![](https://github.com/JZXiang/PickerView/raw/master/preview/timepickerdialog_demo.gif)| 
 |[android-pickers][55]|安卓选择器类库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、职业、学历、星座等）、城市地址选择器（分省级、地级及县级）、数字选择器（可用于年龄、身高、体重、温度等）等……可以切换不同的模式（目前有普通模式，3d滚轮模式）  <br>![](https://github.com/addappcn/android-pickers/raw/master/screenshots/Screenshot_2017-04-21-15-45-59.png)| 
 |[Android-ObservableScrollView][46]|![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif) ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo10.gif) ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo13.gif)|
 |[XCL-Charts][51]|Android图表库(XCL-Carts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图(Cir…)| 
+|[hellocharts-android][99]|Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations<br> ![](https://github.com/lecho/hellocharts-android/raw/master/screens/scr_dependecy_preview.gif)<br> ![](https://github.com/lecho/hellocharts-android/raw/master/screens/scr-pie1.png)| 
 
 
 
@@ -319,5 +321,12 @@
 [96]: https://github.com/linsea/UniversalVideoView
 [97]: https://github.com/SuperMan42/MVP
 [98]: https://github.com/rengwuxian/RxJavaSamples
-[99]: https://github.com/google/gson
-[100]: https://github.com/google/gson
+[99]: https://github.com/lecho/hellocharts-android
+[100]: https://github.com/Manabu-GT/ExpandableTextView
+[101]: https://github.com/google/gson
+[102]: https://github.com/google/gson
+[103]: https://github.com/google/gson
+[104]: https://github.com/google/gson
+[105]: https://github.com/google/gson
+[106]: https://github.com/google/gson
+[107]: https://github.com/google/gson
