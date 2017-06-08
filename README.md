@@ -39,7 +39,7 @@
 | 名称 | 简介  | 
 |------------|---------------|
 |[okhttp-OkGo][4]|OkHttpUtils-2.0.0 升级后改名 OkGo，全新完美支持RxJava，比Retrofit更简单易用。该库是封装了okhttp的标准RESTful风格的网络框架，支持大文件上传下载，上传进度回调，下载进度回调，表单上传（多文件和多参数一起上传），链式调用，可以自定义返回对象，支持Https和自签名证书，支持超时自动重连，支持cookie的持久化和自动管理，支持五种缓存模式缓存网络数据，支持301和302重定向，扩展了统一的上传管理和下载管理功能|
-|[Retrofit][5]|star超`2w`|
+|[Retrofit][5]|star超`2w` [RxJava 和 Retrofit 结合使用的几个最常见使用方式举例][98]|
 |[okhttp-utils][20]|鸿神的okhttp的辅助类|
 
 
@@ -318,6 +318,6 @@
 [95]: https://github.com/xiongwei-git/AndroidVideoPlayer
 [96]: https://github.com/linsea/UniversalVideoView
 [97]: https://github.com/SuperMan42/MVP
-[98]: https://github.com/google/gson
+[98]: https://github.com/rengwuxian/RxJavaSamples
 [99]: https://github.com/google/gson
 [100]: https://github.com/google/gson
