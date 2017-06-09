@@ -88,7 +88,7 @@
 | 名称 | 简介  | 
 |------------|---------------|
 |[Android Design Support Library][57]|这个并不是一个第三方库，是谷歌官方出的支持库,[demo地址][56]|
-|[Android工具类库][1]|star超`1k`|
+|[FileDownloader][105]|Android 文件下载引擎，稳定、高效、灵活、简单易用<br>![](https://github.com/lingochamp/FileDownloader/raw/master/art/mix_tasks_demo.gif)|
 |[Android开发人员不得不收集的代码][2]|常用工具类,超详细,star超`9k`|
 |[logger][3]|优秀的log打印库|
 |[Luban][26]|Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。|
@@ -330,6 +330,6 @@
 [102]: https://github.com/kaushikgopal/RxJava-Android-Samples
 [103]: https://github.com/tbruyelle/RxPermissions
 [104]: https://github.com/trello/RxLifecycle
-[105]: https://github.com/google/gson
+[105]: https://github.com/lingochamp/FileDownloader
 [106]: https://github.com/google/gson
 [107]: https://github.com/google/gson
