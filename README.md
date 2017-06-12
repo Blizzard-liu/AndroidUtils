@@ -17,7 +17,7 @@
    * [二维码](#二维码)
    * [屏幕适配](#屏幕适配)
    * [下拉刷新](#下拉刷新)
-   * [视频相关](#视频相关)
+   * [音视频相关](#音视频相关)
    * [自定义控件](#自定义控件)
    * [完整项目](#完整项目)
   
@@ -144,7 +144,7 @@
 |[BGARefreshLayout-Android][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
 |[android-Ultra-Pull-To-Refresh][29]|这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。支持 API LEVEL >= 8。[android-Ultra-Pull-To-Refresh/SwipeRefreshLayout嵌套ViewPager/ScrollView滑动冲突解决][74]<br>![](https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966)| 
 
-#### 视频相关
+#### 音视频相关
 
 | 名称 | 简介  | 
 |------------|---------------|
@@ -158,6 +158,7 @@
 |[ijkplayer][78]|Ijkplayer 是Bilibili发布的基于 FFplay 的轻量级 Android/iOS 视频播放器。实现了跨平台功能，API 易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供 Android 平台下应用弹幕集成的解决方案。| 
 |[GSYVideoPlayer][81]|视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果<br>![](https://github.com/CarGuo/GSYVideoPlayer/raw/master/01.gif)| 
 |[WeiXinRecordedDemo][80]|仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑<br>![](http://upload-images.jianshu.io/upload_images/2582948-06a1126d949b92b6.gif?imageMogr2/auto-orient/strip)| 
+|[MusicIndicator][106]|简单易用的音乐频谱效果。<br>![](https://github.com/Taishi-Y/MusicIndicator/raw/master/art/samplegif.gif?raw=true)| 
 
 
 
@@ -331,5 +332,12 @@
 [103]: https://github.com/tbruyelle/RxPermissions
 [104]: https://github.com/trello/RxLifecycle
 [105]: https://github.com/lingochamp/FileDownloader
-[106]: https://github.com/google/gson
+[106]: https://github.com/Taishi-Y/MusicIndicator
 [107]: https://github.com/google/gson
+[108]: https://github.com/google/gson
+[109]: https://github.com/google/gson
+[110]: https://github.com/google/gson
+[111]: https://github.com/google/gson
+[112]: https://github.com/google/gson
+[113]: https://github.com/google/gson
+[114]: https://github.com/google/gson
