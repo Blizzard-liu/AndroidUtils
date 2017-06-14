@@ -101,7 +101,7 @@
 |[Fragmentation][37]|为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。<br>![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/wechat.gif)|
 |[Material-Animations][50]|![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)|
 |[RxJava][39]|[给 Android 开发者的 RxJava 详解][69]  [RxJava-Android-Samples][102]|
-|[MVPArms][104]|Lifecycle handling APIs for Android apps using RxJava|
+|[RxLifecycle][104]|Lifecycle handling APIs for Android apps using RxJava|
 |[MVPArms][101]|一个整合了大量主流开源项目的 Android Mvp 快速搭建框架|
 |[ShareUtil][28]|ShareUtil是一个综合性的分享及登录工具库，支持微信分享，微博分享，QQ分享，QQ空间分享以及Android系统默认分享，支持微信登录，微博登录以及QQ登录并获取用户信息。|
 |[update][76]|清晰灵活简单易用的应用更新库<br>![](https://github.com/czy1121/update/raw/master/screenshot4.png)|
