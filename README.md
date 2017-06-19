@@ -122,6 +122,7 @@
 | 名称 | 简介  | 
 |------------|---------------|
 |[沉浸式状态栏][0]|![](https://github.com/H07000223/FlycoSystemBar/blob/master/art/5.0.gif)|  
+|[ImmersionBar][108]|android 4.4以上沉浸式状态栏和沉浸式导航栏管理<br>![](https://github.com/gyf-dev/Screenshots/raw/master/ImmersionBar/Screenshot_6.0.gif)|  
 
 
 #### 二维码
@@ -335,7 +336,7 @@
 [105]: https://github.com/lingochamp/FileDownloader
 [106]: https://github.com/Taishi-Y/MusicIndicator
 [107]: https://github.com/nanchen2251/AiYaGirl
-[108]: https://github.com/google/gson
+[108]: https://github.com/gyf-dev/ImmersionBar
 [109]: https://github.com/google/gson
 [110]: https://github.com/google/gson
 [111]: https://github.com/google/gson
