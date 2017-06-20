@@ -170,6 +170,7 @@
 
 | 名称 | 简介  | 
 |------------|---------------|
+|[ZLayoutManager][109]|一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。 ![](https://github.com/mcxtzhang/LayoutManagerDemo/raw/master/gifs/tantan.gif)|  
 |[PullZoomView][65]|![](https://raw.githubusercontent.com/Frank-Zhu/PullZoomView/master/art/pull-to-zoom.gif)| 
 |[BGABadgeView-Android][21]|Android 徽章控件 ![](https://cloud.githubusercontent.com/assets/8949716/17483429/8f5ab3aa-5db8-11e6-808c-6033f5d5c4ec.gif)|  
 |[SlantedTextView][79]|一个倾斜的TextView,适用于标签效果。<br>![](https://github.com/HeZaiJin/SlantedTextView/raw/master/screen_shot/screenshot.png)|  
@@ -337,7 +338,7 @@
 [106]: https://github.com/Taishi-Y/MusicIndicator
 [107]: https://github.com/nanchen2251/AiYaGirl
 [108]: https://github.com/gyf-dev/ImmersionBar
-[109]: https://github.com/google/gson
+[109]: https://github.com/mcxtzhang/ZLayoutManager
 [110]: https://github.com/google/gson
 [111]: https://github.com/google/gson
 [112]: https://github.com/google/gson
