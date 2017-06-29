@@ -107,6 +107,7 @@
 |[update][76]|清晰灵活简单易用的应用更新库<br>![](https://github.com/czy1121/update/raw/master/screenshot4.png)|
 |[packer-ng-plugin][66]|下一代Android打包工具，100个渠道包只需要10秒钟|
 |[leakcanary][49]|检测app内存泄露|
+|[SmartAppUpdates][110]|Android应用增量更新 包括客户端、服务端两部分代码。|
 
 
 #### 轮播图
@@ -339,7 +340,7 @@
 [107]: https://github.com/nanchen2251/AiYaGirl
 [108]: https://github.com/gyf-dev/ImmersionBar
 [109]: https://github.com/mcxtzhang/ZLayoutManager
-[110]: https://github.com/google/gson
+[110]: https://github.com/cundong/SmartAppUpdates
 [111]: https://github.com/google/gson
 [112]: https://github.com/google/gson
 [113]: https://github.com/google/gson
