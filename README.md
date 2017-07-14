@@ -48,7 +48,7 @@
 
 | 名称 | 简介  | 
 |------------|---------------|
-|[glide][9]|Google员工私人项目，Google很多项目在用。picasso能做到的它都能做到，并且还支持gif.关于Glide和Picasso这篇译文有一个比较详细的对比介绍 [Glide VS Picasso][53]|
+|[glide][9]|Google员工私人项目，Google很多项目在用。picasso能做到的它都能做到，并且还支持gif.关于Glide和Picasso这篇译文有一个比较详细的对比介绍 [Glide VS Picasso][53] [基于Glide V4.0封装的图片加载库][111]|
 |[Picasso][10]|这个是square 开源的一个强大的图片下载和缓存库。很受欢迎，许多项目都有在使用这个库。使用方式也很简单。[PicassoUtil][72]|
 |[Fresco][11]|这个是FaceBook的开源项目，链接中有中文的详细文档。这个库除了支持的图片格式很广泛外，最大的特性就是在内存优化这块，使用这个库能有效防止OOM情况的出现。|
 |[ImagePicker][14]|完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数<br>![](https://github.com/jeasonlzy/Screenshots/raw/master/ImagePicker/demo2.gif)|
@@ -108,6 +108,7 @@
 |[packer-ng-plugin][66]|下一代Android打包工具，100个渠道包只需要10秒钟|
 |[leakcanary][49]|检测app内存泄露|
 |[SmartAppUpdates][110]|Android应用增量更新 包括客户端、服务端两部分代码。|
+|[EasyPay][112]|简单易用的第三方可扩展支付框架,帮助Android开发者快速集成接入移动支付SDK，其中包括主流的微信APP支付，支付宝APP支付，银联支付|
 
 
 #### 轮播图
@@ -341,7 +342,7 @@
 [108]: https://github.com/gyf-dev/ImmersionBar
 [109]: https://github.com/mcxtzhang/ZLayoutManager
 [110]: https://github.com/cundong/SmartAppUpdates
-[111]: https://github.com/google/gson
-[112]: https://github.com/google/gson
+[111]: https://github.com/sfsheng0322/GlideImageView
+[112]: https://github.com/xiong-it/EasyPay
 [113]: https://github.com/google/gson
 [114]: https://github.com/google/gson
