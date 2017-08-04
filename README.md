@@ -57,6 +57,7 @@
 |[transferee][92]|一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件<br> ![](https://github.com/Hitomis/transferee/raw/master/preview/transferee_1.gif)|
 |[BigImageViewer][93]|基于Subsampling Scale Image View, Fresco, Glide, 和 Picasso的大图加载，支持缩放，可以使用不同的加载库。<br> ![](https://github.com/Piasy/BigImageViewer/raw/master/art/fresco_big_image_viewer_demo.gif)|
 |[CircleImageView][67]|一个使用很广泛的圆形图片库<br> ![](https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67)|
+|[Subsampling Scale Image View][114]|如果你想加载超大图片（1m以上），同时又想让图片可以随意的缩放，还想要流畅的效果，还不想发生oom，那么这个项目绝对是不二的选择。其流畅度与可操作性绝对不输原生相册应用。demo中的图片最大是2.7m，但是一点也不卡。<br> ![](http://www.jcodecraeer.com/uploads/150213/1-15021303302T36.gif)|
 
 
 
@@ -346,4 +347,5 @@
 [111]: https://github.com/sfsheng0322/GlideImageView
 [112]: https://github.com/xiong-it/EasyPay
 [113]: https://github.com/Blizzard-liu/awesome-github-android-ui
-[114]: https://github.com/google/gson
+[114]: https://github.com/davemorrissey/subsampling-scale-image-view
+[115]: https://github.com/google/gson
