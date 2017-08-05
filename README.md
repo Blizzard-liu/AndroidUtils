@@ -112,6 +112,7 @@
 |[leakcanary][49]|检测app内存泄露|
 |[SmartAppUpdates][110]|Android应用增量更新 包括客户端、服务端两部分代码。|
 |[EasyPay][112]|简单易用的第三方可扩展支付框架,帮助Android开发者快速集成接入移动支付SDK，其中包括主流的微信APP支付，支付宝APP支付，银联支付|
+|[ViewPagerTransforms][116]|实现Viewpager多种切换动画的开源库<br>![](https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966)|
 
 
 #### 轮播图
@@ -350,4 +351,5 @@
 [113]: https://github.com/Blizzard-liu/awesome-github-android-ui
 [114]: https://github.com/davemorrissey/subsampling-scale-image-view
 [115]: https://github.com/MikeOrtiz/TouchImageView
-[116]: https://github.com/google/gson
+[116]: https://github.com/ToxicBakery/ViewPagerTransforms
+[117]: https://github.com/google/gson
