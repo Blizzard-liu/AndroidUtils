@@ -149,7 +149,7 @@
 
 | 名称 | 简介  | 
 |------------|--------------|
-|[BGARefreshLayout-Android][16]|多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位| 
+|[SmartRefreshLayout][16]|支持多点触摸,支持嵌套多层的视图结构,支持所有的 View（AbsListView、RecyclerView、WebView....View）,支持自定义并且已经集成了很多炫酷的 Header 和 Footer.,支持和ListView的无缝同步滚动 和 CoordinatorLayout 的嵌套滚动 .,支持自动刷新、自动上拉加载（自动检测列表惯性滚动到底部，而不用手动上拉）.,支持自定义回弹动画的插值器，实现各种炫酷的动画效果.,支持设置主题来适配任何场景的App，不会出现炫酷但很尴尬的情况.,支持设多种滑动方式：平移、拉伸、背后固定、顶层固定、全屏支持所有可滚动视图的越界回弹| 
 |[android-Ultra-Pull-To-Refresh][29]|这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。支持 API LEVEL >= 8。[android-Ultra-Pull-To-Refresh/SwipeRefreshLayout嵌套ViewPager/ScrollView滑动冲突解决][74]<br>![](https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966)| 
 
 #### 音视频相关
@@ -253,7 +253,7 @@
 [13]: http://www.jianshu.com/p/4320597ebd7e
 [14]: https://github.com/jeasonlzy/ImagePicker
 [15]: https://github.com/LuckSiege/PictureSelector
-[16]: https://github.com/bingoogolapple/BGARefreshLayout-Android
+[16]: https://github.com/scwang90/SmartRefreshLayout
 [17]: https://github.com/bingoogolapple/BGAQRCode-Android
 [18]: https://github.com/LitePalFramework/LitePal
 [19]: https://github.com/hongyangAndroid/AndroidAutoLayout
