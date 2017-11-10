@@ -115,6 +115,7 @@
 |[SmartAppUpdates][110]|Android应用增量更新 包括客户端、服务端两部分代码。|
 |[ViewPagerTransforms][116]|实现Viewpager多种切换动画的开源库<br>![](https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966)|
 |[LoadSir][119]|可添加自定义状态页面，如加载中，加载失败，无数据，网络超时，占位图，登录失效等常用页面<br>![](http://upload-images.jianshu.io/upload_images/1411177-2dfef21f5c99e851.gif?imageMogr2/auto-orient/strip)|
+|[ShimmerRecyclerView][120]|![](https://github.com/sharish/ShimmerRecyclerView/raw/master/screenshots/list_demo.gif)|
 
 
 #### 轮播图
@@ -358,7 +359,7 @@
 [117]: https://github.com/Naoki2015/CircleDemo
 [118]: https://github.com/cymcsg/UltimateRecyclerView
 [119]: https://github.com/KingJA/LoadSir
-[120]: https://github.com/google/gson
+[120]: https://github.com/sharish/ShimmerRecyclerView
 [121]: https://github.com/google/gson
 [122]: https://github.com/google/gson
 [123]: https://github.com/google/gson
