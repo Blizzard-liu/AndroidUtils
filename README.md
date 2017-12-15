@@ -116,6 +116,7 @@
 |[ViewPagerTransforms][116]|实现Viewpager多种切换动画的开源库<br>![](https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966)|
 |[LoadSir][119]|可添加自定义状态页面，如加载中，加载失败，无数据，网络超时，占位图，登录失效等常用页面<br>![](http://upload-images.jianshu.io/upload_images/1411177-2dfef21f5c99e851.gif?imageMogr2/auto-orient/strip)|
 |[ShimmerRecyclerView][120]|![](https://github.com/sharish/ShimmerRecyclerView/raw/master/screenshots/list_demo.gif)|
+|[Tray][122]|多进程操作和读取SharedPreferences的问题。|
 
 
 #### 轮播图
@@ -362,7 +363,7 @@
 [119]: https://github.com/KingJA/LoadSir
 [120]: https://github.com/sharish/ShimmerRecyclerView
 [121]: https://github.com/yangchaojiang/yjPlay
-[122]: https://github.com/google/gson
+[122]: https://github.com/grandcentrix/tray
 [123]: https://github.com/google/gson
 [124]: https://github.com/google/gson
 [125]: https://github.com/google/gson
