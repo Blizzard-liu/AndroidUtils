@@ -146,7 +146,7 @@
 
 | 名称 | 简介  | 
 |------------|--------------|
-|[AndroidAutoLayout][19]|Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。|  
+|[ScreenMatch][19]|推荐一种非常好用的Android屏幕适配，非常实用，效果很好，本人亲测|  
 
 #### 下拉刷新
 
@@ -260,7 +260,7 @@
 [16]: https://github.com/scwang90/SmartRefreshLayout
 [17]: https://github.com/bingoogolapple/BGAQRCode-Android
 [18]: https://github.com/LitePalFramework/LitePal
-[19]: https://github.com/hongyangAndroid/AndroidAutoLayout
+[19]: https://www.jianshu.com/p/1302ad5a4b04
 [20]: https://github.com/hongyangAndroid/okhttputils
 [21]: https://github.com/bingoogolapple/BGABadgeView-Android
 [22]: https://github.com/bingoogolapple/BGABanner-Android
