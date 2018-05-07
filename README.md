@@ -132,6 +132,7 @@
 | 名称 | 简介  | 
 |------------|---------------|
 |[沉浸式状态栏][0]|![](https://github.com/H07000223/FlycoSystemBar/blob/master/art/5.0.gif)|  
+|[StatusBarUtil][123]|![](https://github.com/laobie/StatusBarUtil/raw/master/img/use_in_fragment.gif)|  
 |[ImmersionBar][108]|android 4.4以上沉浸式状态栏和沉浸式导航栏管理<br>![](https://github.com/gyf-dev/Screenshots/raw/master/ImmersionBar/Screenshot_6.0.gif)|  
 
 
@@ -364,6 +365,6 @@
 [120]: https://github.com/sharish/ShimmerRecyclerView
 [121]: https://github.com/yangchaojiang/yjPlay
 [122]: https://github.com/grandcentrix/tray
-[123]: https://github.com/google/gson
+[123]: https://github.com/laobie/StatusBarUtil
 [124]: https://github.com/google/gson
 [125]: https://github.com/google/gson
